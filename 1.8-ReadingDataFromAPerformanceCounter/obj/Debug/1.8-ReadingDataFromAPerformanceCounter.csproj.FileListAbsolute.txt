@@ -1,0 +1,14 @@
+D:\GitDR\70-483\1.8-ReadingDataFromAPerformanceCounter\bin\Debug\1.8-ReadingDataFromAPerformanceCounter.exe.config
+D:\GitDR\70-483\1.8-ReadingDataFromAPerformanceCounter\bin\Debug\1.8-ReadingDataFromAPerformanceCounter.exe
+D:\GitDR\70-483\1.8-ReadingDataFromAPerformanceCounter\bin\Debug\1.8-ReadingDataFromAPerformanceCounter.pdb
+D:\GitDR\70-483\1.8-ReadingDataFromAPerformanceCounter\obj\Debug\1.8-ReadingDataFromAPerformanceCounter.csprojAssemblyReference.cache
+D:\GitDR\70-483\1.8-ReadingDataFromAPerformanceCounter\obj\Debug\1.8-ReadingDataFromAPerformanceCounter.csproj.CoreCompileInputs.cache
+D:\GitDR\70-483\1.8-ReadingDataFromAPerformanceCounter\obj\Debug\1.8-ReadingDataFromAPerformanceCounter.exe
+D:\GitDR\70-483\1.8-ReadingDataFromAPerformanceCounter\obj\Debug\1.8-ReadingDataFromAPerformanceCounter.pdb
+C:\gitRepository\70-483-DEMO\1.8-ReadingDataFromAPerformanceCounter\bin\Debug\1.8-ReadingDataFromAPerformanceCounter.exe.config
+C:\gitRepository\70-483-DEMO\1.8-ReadingDataFromAPerformanceCounter\bin\Debug\1.8-ReadingDataFromAPerformanceCounter.exe
+C:\gitRepository\70-483-DEMO\1.8-ReadingDataFromAPerformanceCounter\bin\Debug\1.8-ReadingDataFromAPerformanceCounter.pdb
+C:\gitRepository\70-483-DEMO\1.8-ReadingDataFromAPerformanceCounter\obj\Debug\1.8-ReadingDataFromAPerformanceCounter.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.8-ReadingDataFromAPerformanceCounter\obj\Debug\1.8-ReadingDataFromAPerformanceCounter.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.8-ReadingDataFromAPerformanceCounter\obj\Debug\1.8-ReadingDataFromAPerformanceCounter.exe
+C:\gitRepository\70-483-DEMO\1.8-ReadingDataFromAPerformanceCounter\obj\Debug\1.8-ReadingDataFromAPerformanceCounter.pdb

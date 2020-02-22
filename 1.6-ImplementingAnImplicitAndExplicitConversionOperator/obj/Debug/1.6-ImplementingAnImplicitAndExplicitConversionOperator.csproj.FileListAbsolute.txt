@@ -1,0 +1,13 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\bin\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\bin\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\bin\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\obj\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\obj\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\obj\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.pdb
+C:\gitRepository\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\bin\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.exe.config
+C:\gitRepository\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\bin\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.exe
+C:\gitRepository\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\bin\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.pdb
+C:\gitRepository\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\obj\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\obj\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.exe
+C:\gitRepository\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\obj\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.pdb
+C:\gitRepository\70-483-DEMO\1.6-ImplementingAnImplicitAndExplicitConversionOperator\obj\Debug\1.6-ImplementingAnImplicitAndExplicitConversionOperator.csprojAssemblyReference.cache

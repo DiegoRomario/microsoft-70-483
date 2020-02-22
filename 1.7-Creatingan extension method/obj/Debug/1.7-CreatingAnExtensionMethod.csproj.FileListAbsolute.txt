@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.7-Creatingan extension method\bin\Debug\1.7-Creatingan extension method.exe.config
+C:\gitRepository\70-483-DEMO\1.7-Creatingan extension method\bin\Debug\1.7-Creatingan extension method.exe
+C:\gitRepository\70-483-DEMO\1.7-Creatingan extension method\bin\Debug\1.7-Creatingan extension method.pdb
+C:\gitRepository\70-483-DEMO\1.7-Creatingan extension method\obj\Debug\1.7-CreatingAnExtensionMethod.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.7-Creatingan extension method\obj\Debug\1.7-CreatingAnExtensionMethod.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.7-Creatingan extension method\obj\Debug\1.7-Creatingan extension method.exe
+C:\gitRepository\70-483-DEMO\1.7-Creatingan extension method\obj\Debug\1.7-Creatingan extension method.pdb

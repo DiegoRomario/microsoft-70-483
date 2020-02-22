@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.8-ChangingAStringWithARegularExpression\bin\Debug\1.8-ChangingAStringWithARegularExpression.exe.config
+C:\gitRepository\70-483-DEMO\1.8-ChangingAStringWithARegularExpression\bin\Debug\1.8-ChangingAStringWithARegularExpression.exe
+C:\gitRepository\70-483-DEMO\1.8-ChangingAStringWithARegularExpression\bin\Debug\1.8-ChangingAStringWithARegularExpression.pdb
+C:\gitRepository\70-483-DEMO\1.8-ChangingAStringWithARegularExpression\obj\Debug\1.8-ChangingAStringWithARegularExpression.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.8-ChangingAStringWithARegularExpression\obj\Debug\1.8-ChangingAStringWithARegularExpression.exe
+C:\gitRepository\70-483-DEMO\1.8-ChangingAStringWithARegularExpression\obj\Debug\1.8-ChangingAStringWithARegularExpression.pdb

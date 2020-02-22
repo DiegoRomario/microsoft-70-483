@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-BoxingAnIntegerValue\bin\Debug\1.1-BoxingAnIntegerValue.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-BoxingAnIntegerValue\bin\Debug\1.1-BoxingAnIntegerValue.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-BoxingAnIntegerValue\bin\Debug\1.1-BoxingAnIntegerValue.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-BoxingAnIntegerValue\obj\Debug\1.1-BoxingAnIntegerValue.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-BoxingAnIntegerValue\obj\Debug\1.1-BoxingAnIntegerValue.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-BoxingAnIntegerValue\obj\Debug\1.1-BoxingAnIntegerValue.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-BoxingAnIntegerValue\obj\Debug\1.1-BoxingAnIntegerValue.pdb

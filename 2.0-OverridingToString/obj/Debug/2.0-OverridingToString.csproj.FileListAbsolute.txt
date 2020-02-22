@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\2.0-OverridingToString\bin\Debug\2.0-OverridingToString.exe.config
+C:\gitRepository\70-483-DEMO\2.0-OverridingToString\bin\Debug\2.0-OverridingToString.exe
+C:\gitRepository\70-483-DEMO\2.0-OverridingToString\bin\Debug\2.0-OverridingToString.pdb
+C:\gitRepository\70-483-DEMO\2.0-OverridingToString\obj\Debug\2.0-OverridingToString.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.0-OverridingToString\obj\Debug\2.0-OverridingToString.exe
+C:\gitRepository\70-483-DEMO\2.0-OverridingToString\obj\Debug\2.0-OverridingToString.pdb

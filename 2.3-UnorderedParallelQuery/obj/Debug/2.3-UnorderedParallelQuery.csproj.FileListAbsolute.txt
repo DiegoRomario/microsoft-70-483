@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\2.3-UnorderedParallelQuery\bin\Debug\2.3-UnorderedParallelQuery.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\2.3-UnorderedParallelQuery\bin\Debug\2.3-UnorderedParallelQuery.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.3-UnorderedParallelQuery\bin\Debug\2.3-UnorderedParallelQuery.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.3-UnorderedParallelQuery\obj\Debug\2.3-UnorderedParallelQuery.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.3-UnorderedParallelQuery\obj\Debug\2.3-UnorderedParallelQuery.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.3-UnorderedParallelQuery\obj\Debug\2.3-UnorderedParallelQuery.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.3-UnorderedParallelQuery\obj\Debug\2.3-UnorderedParallelQuery.csprojAssemblyReference.cache

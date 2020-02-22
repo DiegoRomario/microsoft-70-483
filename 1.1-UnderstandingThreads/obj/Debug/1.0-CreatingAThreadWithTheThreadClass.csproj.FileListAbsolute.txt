@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.1-UnderstandingThreads\bin\Debug\1.1-UnderstandingThreads.exe.config
+C:\gitRepository\70-483-DEMO\1.1-UnderstandingThreads\bin\Debug\1.1-UnderstandingThreads.exe
+C:\gitRepository\70-483-DEMO\1.1-UnderstandingThreads\bin\Debug\1.1-UnderstandingThreads.pdb
+C:\gitRepository\70-483-DEMO\1.1-UnderstandingThreads\obj\Debug\1.0-CreatingAThreadWithTheThreadClass.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.1-UnderstandingThreads\obj\Debug\1.0-CreatingAThreadWithTheThreadClass.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.1-UnderstandingThreads\obj\Debug\1.1-UnderstandingThreads.exe
+C:\gitRepository\70-483-DEMO\1.1-UnderstandingThreads\obj\Debug\1.1-UnderstandingThreads.pdb

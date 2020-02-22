@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\bin\Debug\1.3-CatchingDifferentExceptionTypes.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\bin\Debug\1.3-CatchingDifferentExceptionTypes.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\bin\Debug\1.3-CatchingDifferentExceptionTypes.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\obj\Debug\1.3-CatchingDifferentExceptionTypes.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\obj\Debug\1.3-CatchingDifferentExceptionTypes.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\obj\Debug\1.3-CatchingDifferentExceptionTypes.pdb
+C:\gitRepository\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\bin\Debug\1.3-CatchingDifferentExceptionTypes.exe.config
+C:\gitRepository\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\bin\Debug\1.3-CatchingDifferentExceptionTypes.exe
+C:\gitRepository\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\bin\Debug\1.3-CatchingDifferentExceptionTypes.pdb
+C:\gitRepository\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\obj\Debug\1.3-CatchingDifferentExceptionTypes.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\obj\Debug\1.3-CatchingDifferentExceptionTypes.exe
+C:\gitRepository\70-483-DEMO\1.3-CatchingDifferentExceptionTypes\obj\Debug\1.3-CatchingDifferentExceptionTypes.pdb

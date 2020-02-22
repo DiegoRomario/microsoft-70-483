@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\3.4-UpdatingXMLInAProceduralWay\bin\Debug\3.4-UpdatingXMLInAProceduralWay.exe.config
+C:\gitRepository\70-483-DEMO\3.4-UpdatingXMLInAProceduralWay\bin\Debug\3.4-UpdatingXMLInAProceduralWay.exe
+C:\gitRepository\70-483-DEMO\3.4-UpdatingXMLInAProceduralWay\bin\Debug\3.4-UpdatingXMLInAProceduralWay.pdb
+C:\gitRepository\70-483-DEMO\3.4-UpdatingXMLInAProceduralWay\obj\Debug\3.4-UpdatingXMLInAProceduralWay.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\3.4-UpdatingXMLInAProceduralWay\obj\Debug\3.4-UpdatingXMLInAProceduralWay.exe
+C:\gitRepository\70-483-DEMO\3.4-UpdatingXMLInAProceduralWay\obj\Debug\3.4-UpdatingXMLInAProceduralWay.pdb

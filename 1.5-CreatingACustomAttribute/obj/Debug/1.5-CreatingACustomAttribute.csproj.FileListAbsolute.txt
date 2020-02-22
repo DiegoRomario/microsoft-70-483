@@ -1,0 +1,16 @@
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\bin\Debug\1.5-CreatingACustomAttribute.exe.config
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\bin\Debug\1.5-CreatingACustomAttribute.exe
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\bin\Debug\1.5-CreatingACustomAttribute.pdb
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\bin\Debug\xunit.abstractions.dll
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\bin\Debug\xunit.assert.dll
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\bin\Debug\xunit.core.dll
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\bin\Debug\xunit.execution.desktop.dll
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\bin\Debug\xunit.abstractions.xml
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\bin\Debug\xunit.assert.xml
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\bin\Debug\xunit.core.xml
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\bin\Debug\xunit.execution.desktop.xml
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\obj\Debug\1.5-CreatingACustomAttribute.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\obj\Debug\1.5-CreatingACustomAttribute.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\obj\Debug\1.5-CreatingACustomAttribute.csproj.CopyComplete
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\obj\Debug\1.5-CreatingACustomAttribute.exe
+C:\gitRepository\70-483-DEMO\1.5-CreatingACustomAttribute\obj\Debug\1.5-CreatingACustomAttribute.pdb

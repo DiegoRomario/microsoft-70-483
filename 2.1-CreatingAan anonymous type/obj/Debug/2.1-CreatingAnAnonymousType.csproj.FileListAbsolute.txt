@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\2.1-CreatingAan anonymous type\bin\Debug\2.1-CreatingAan anonymous type.exe.config
+C:\gitRepository\70-483-DEMO\2.1-CreatingAan anonymous type\bin\Debug\2.1-CreatingAan anonymous type.exe
+C:\gitRepository\70-483-DEMO\2.1-CreatingAan anonymous type\bin\Debug\2.1-CreatingAan anonymous type.pdb
+C:\gitRepository\70-483-DEMO\2.1-CreatingAan anonymous type\obj\Debug\2.1-CreatingAnAnonymousType.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.1-CreatingAan anonymous type\obj\Debug\2.1-CreatingAan anonymous type.exe
+C:\gitRepository\70-483-DEMO\2.1-CreatingAan anonymous type\obj\Debug\2.1-CreatingAan anonymous type.pdb

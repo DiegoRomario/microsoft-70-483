@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\3.2-UsingAConcurrentStack\bin\Debug\3.2-UsingAConcurrentStack.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\3.2-UsingAConcurrentStack\bin\Debug\3.2-UsingAConcurrentStack.exe
+C:\Users\Diego\source\repos\70-483-DEMO\3.2-UsingAConcurrentStack\bin\Debug\3.2-UsingAConcurrentStack.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\3.2-UsingAConcurrentStack\obj\Debug\3.2-UsingAConcurrentStack.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\3.2-UsingAConcurrentStack\obj\Debug\3.2-UsingAConcurrentStack.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\3.2-UsingAConcurrentStack\obj\Debug\3.2-UsingAConcurrentStack.exe
+C:\Users\Diego\source\repos\70-483-DEMO\3.2-UsingAConcurrentStack\obj\Debug\3.2-UsingAConcurrentStack.pdb

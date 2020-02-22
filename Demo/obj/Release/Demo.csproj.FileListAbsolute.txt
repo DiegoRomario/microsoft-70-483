@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\Demo\bin\Release\Demo.exe.config
+C:\gitRepository\70-483-DEMO\Demo\bin\Release\Demo.exe
+C:\gitRepository\70-483-DEMO\Demo\bin\Release\Demo.pdb
+C:\gitRepository\70-483-DEMO\Demo\obj\Release\Demo.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\Demo\obj\Release\Demo.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\Demo\obj\Release\Demo.exe
+C:\gitRepository\70-483-DEMO\Demo\obj\Release\Demo.pdb

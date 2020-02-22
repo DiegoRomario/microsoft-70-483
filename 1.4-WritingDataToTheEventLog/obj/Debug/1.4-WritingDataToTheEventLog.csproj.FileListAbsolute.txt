@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.4-WritingDataToTheEventLog\bin\Debug\1.4-WritingDataToTheEventLog.exe.config
+C:\gitRepository\70-483-DEMO\1.4-WritingDataToTheEventLog\bin\Debug\1.4-WritingDataToTheEventLog.exe
+C:\gitRepository\70-483-DEMO\1.4-WritingDataToTheEventLog\bin\Debug\1.4-WritingDataToTheEventLog.pdb
+C:\gitRepository\70-483-DEMO\1.4-WritingDataToTheEventLog\obj\Debug\1.4-WritingDataToTheEventLog.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.4-WritingDataToTheEventLog\obj\Debug\1.4-WritingDataToTheEventLog.exe
+C:\gitRepository\70-483-DEMO\1.4-WritingDataToTheEventLog\obj\Debug\1.4-WritingDataToTheEventLog.pdb

@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.4-UsingConvertWithANullValue\bin\Debug\1.4-UsingConvertWithANullValue.exe.config
+C:\gitRepository\70-483-DEMO\1.4-UsingConvertWithANullValue\bin\Debug\1.4-UsingConvertWithANullValue.exe
+C:\gitRepository\70-483-DEMO\1.4-UsingConvertWithANullValue\bin\Debug\1.4-UsingConvertWithANullValue.pdb
+C:\gitRepository\70-483-DEMO\1.4-UsingConvertWithANullValue\obj\Debug\1.4-UsingConvertWithANullValue.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.4-UsingConvertWithANullValue\obj\Debug\1.4-UsingConvertWithANullValue.exe
+C:\gitRepository\70-483-DEMO\1.4-UsingConvertWithANullValue\obj\Debug\1.4-UsingConvertWithANullValue.pdb

@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\2.6-UsingForAll\bin\Debug\2.6-UsingForAll.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\2.6-UsingForAll\bin\Debug\2.6-UsingForAll.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.6-UsingForAll\bin\Debug\2.6-UsingForAll.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.6-UsingForAll\obj\Debug\2.6-UsingForAll.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.6-UsingForAll\obj\Debug\2.6-UsingForAll.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.6-UsingForAll\obj\Debug\2.6-UsingForAll.pdb

@@ -1,0 +1,4 @@
+D:\GitDR\70-483\3.4-ExecutingMultipleAwaits\obj\Debug\netcoreapp2.2\3.4-ExecutingMultipleAwaits.csprojAssemblyReference.cache
+D:\GitDR\70-483\3.4-ExecutingMultipleAwaits\obj\Debug\netcoreapp2.2\3.4-ExecutingMultipleAwaits.csproj.CoreCompileInputs.cache
+D:\GitDR\70-483\3.4-ExecutingMultipleAwaits\obj\Debug\netcoreapp2.2\3.4-ExecutingMultipleAwaits.AssemblyInfoInputs.cache
+D:\GitDR\70-483\3.4-ExecutingMultipleAwaits\obj\Debug\netcoreapp2.2\3.4-ExecutingMultipleAwaits.AssemblyInfo.cs

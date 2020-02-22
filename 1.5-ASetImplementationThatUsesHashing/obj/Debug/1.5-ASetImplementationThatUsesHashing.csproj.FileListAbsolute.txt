@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.5-ASetImplementationThatUsesHashing\bin\Debug\1.5-ASetImplementationThatUsesHashing.exe.config
+C:\gitRepository\70-483-DEMO\1.5-ASetImplementationThatUsesHashing\bin\Debug\1.5-ASetImplementationThatUsesHashing.exe
+C:\gitRepository\70-483-DEMO\1.5-ASetImplementationThatUsesHashing\bin\Debug\1.5-ASetImplementationThatUsesHashing.pdb
+C:\gitRepository\70-483-DEMO\1.5-ASetImplementationThatUsesHashing\obj\Debug\1.5-ASetImplementationThatUsesHashing.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.5-ASetImplementationThatUsesHashing\obj\Debug\1.5-ASetImplementationThatUsesHashing.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.5-ASetImplementationThatUsesHashing\obj\Debug\1.5-ASetImplementationThatUsesHashing.exe
+C:\gitRepository\70-483-DEMO\1.5-ASetImplementationThatUsesHashing\obj\Debug\1.5-ASetImplementationThatUsesHashing.pdb

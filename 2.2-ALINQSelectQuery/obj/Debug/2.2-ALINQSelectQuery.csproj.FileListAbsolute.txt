@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\2.2-ALINQSelectQuery\bin\Debug\2.2-ALINQSelectQuery.exe.config
+C:\gitRepository\70-483-DEMO\2.2-ALINQSelectQuery\bin\Debug\2.2-ALINQSelectQuery.exe
+C:\gitRepository\70-483-DEMO\2.2-ALINQSelectQuery\bin\Debug\2.2-ALINQSelectQuery.pdb
+C:\gitRepository\70-483-DEMO\2.2-ALINQSelectQuery\obj\Debug\2.2-ALINQSelectQuery.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.2-ALINQSelectQuery\obj\Debug\2.2-ALINQSelectQuery.exe
+C:\gitRepository\70-483-DEMO\2.2-ALINQSelectQuery\obj\Debug\2.2-ALINQSelectQuery.pdb

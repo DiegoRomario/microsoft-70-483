@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.5-ReadingDataFromTheEventLog\bin\Debug\1.5-ReadingDataFromTheEventLog.exe.config
+C:\gitRepository\70-483-DEMO\1.5-ReadingDataFromTheEventLog\bin\Debug\1.5-ReadingDataFromTheEventLog.exe
+C:\gitRepository\70-483-DEMO\1.5-ReadingDataFromTheEventLog\bin\Debug\1.5-ReadingDataFromTheEventLog.pdb
+C:\gitRepository\70-483-DEMO\1.5-ReadingDataFromTheEventLog\obj\Debug\1.5-ReadingDataFromTheEventLog.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.5-ReadingDataFromTheEventLog\obj\Debug\1.5-ReadingDataFromTheEventLog.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.5-ReadingDataFromTheEventLog\obj\Debug\1.5-ReadingDataFromTheEventLog.exe
+C:\gitRepository\70-483-DEMO\1.5-ReadingDataFromTheEventLog\obj\Debug\1.5-ReadingDataFromTheEventLog.pdb

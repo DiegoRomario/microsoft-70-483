@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\3.0-UsingAConcurrentBag\bin\Debug\3.0-UsingAConcurrentBag.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\3.0-UsingAConcurrentBag\bin\Debug\3.0-UsingAConcurrentBag.exe
+C:\Users\Diego\source\repos\70-483-DEMO\3.0-UsingAConcurrentBag\bin\Debug\3.0-UsingAConcurrentBag.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\3.0-UsingAConcurrentBag\obj\Debug\3.0-UsingAConcurrentBag.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\3.0-UsingAConcurrentBag\obj\Debug\3.0-UsingAConcurrentBag.exe
+C:\Users\Diego\source\repos\70-483-DEMO\3.0-UsingAConcurrentBag\obj\Debug\3.0-UsingAConcurrentBag.pdb

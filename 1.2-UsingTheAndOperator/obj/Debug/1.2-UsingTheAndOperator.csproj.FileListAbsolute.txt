@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-UsingTheAndOperator\bin\Debug\1.2-UsingTheAndOperator.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-UsingTheAndOperator\bin\Debug\1.2-UsingTheAndOperator.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-UsingTheAndOperator\bin\Debug\1.2-UsingTheAndOperator.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-UsingTheAndOperator\obj\Debug\1.2-UsingTheAndOperator.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-UsingTheAndOperator\obj\Debug\1.2-UsingTheAndOperator.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-UsingTheAndOperator\obj\Debug\1.2-UsingTheAndOperator.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-UsingTheAndOperator\obj\Debug\1.2-UsingTheAndOperator.pdb

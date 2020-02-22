@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\2.0-CopyingAFile\bin\Debug\2.0-CopyingAFile.exe.config
+C:\gitRepository\70-483-DEMO\2.0-CopyingAFile\bin\Debug\2.0-CopyingAFile.exe
+C:\gitRepository\70-483-DEMO\2.0-CopyingAFile\bin\Debug\2.0-CopyingAFile.pdb
+C:\gitRepository\70-483-DEMO\2.0-CopyingAFile\obj\Debug\2.0-CopyingAFile.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.0-CopyingAFile\obj\Debug\2.0-CopyingAFile.exe
+C:\gitRepository\70-483-DEMO\2.0-CopyingAFile\obj\Debug\2.0-CopyingAFile.pdb

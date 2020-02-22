@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\3.3-UsingAConcurrentQueue\bin\Debug\3.3-UsingAConcurrentQueue.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\3.3-UsingAConcurrentQueue\bin\Debug\3.3-UsingAConcurrentQueue.exe
+C:\Users\Diego\source\repos\70-483-DEMO\3.3-UsingAConcurrentQueue\bin\Debug\3.3-UsingAConcurrentQueue.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\3.3-UsingAConcurrentQueue\obj\Debug\3.3-UsingAConcurrentQueue.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\3.3-UsingAConcurrentQueue\obj\Debug\3.3-UsingAConcurrentQueue.exe
+C:\Users\Diego\source\repos\70-483-DEMO\3.3-UsingAConcurrentQueue\obj\Debug\3.3-UsingAConcurrentQueue.pdb

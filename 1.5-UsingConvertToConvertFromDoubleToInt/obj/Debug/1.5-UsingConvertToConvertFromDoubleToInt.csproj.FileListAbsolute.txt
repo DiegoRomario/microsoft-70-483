@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.5-UsingConvertToConvertFromDoubleToInt\bin\Debug\1.5-UsingConvertToConvertFromDoubleToInt.exe.config
+C:\gitRepository\70-483-DEMO\1.5-UsingConvertToConvertFromDoubleToInt\bin\Debug\1.5-UsingConvertToConvertFromDoubleToInt.exe
+C:\gitRepository\70-483-DEMO\1.5-UsingConvertToConvertFromDoubleToInt\bin\Debug\1.5-UsingConvertToConvertFromDoubleToInt.pdb
+C:\gitRepository\70-483-DEMO\1.5-UsingConvertToConvertFromDoubleToInt\obj\Debug\1.5-UsingConvertToConvertFromDoubleToInt.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.5-UsingConvertToConvertFromDoubleToInt\obj\Debug\1.5-UsingConvertToConvertFromDoubleToInt.exe
+C:\gitRepository\70-483-DEMO\1.5-UsingConvertToConvertFromDoubleToInt\obj\Debug\1.5-UsingConvertToConvertFromDoubleToInt.pdb

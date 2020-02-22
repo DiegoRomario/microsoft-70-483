@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-FuncDelegate\bin\Debug\1.8-FuncDelegate.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-FuncDelegate\bin\Debug\1.8-FuncDelegate.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-FuncDelegate\bin\Debug\1.8-FuncDelegate.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-FuncDelegate\obj\Debug\1.8-FuncDelegate.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-FuncDelegate\obj\Debug\1.8-FuncDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-FuncDelegate\obj\Debug\1.8-FuncDelegate.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-FuncDelegate\obj\Debug\1.8-FuncDelegate.pdb

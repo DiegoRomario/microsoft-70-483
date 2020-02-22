@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData\bin\Debug\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData.exe.config
+C:\gitRepository\70-483-DEMO\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData\bin\Debug\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData.exe
+C:\gitRepository\70-483-DEMO\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData\bin\Debug\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData.pdb
+C:\gitRepository\70-483-DEMO\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData\obj\Debug\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData\obj\Debug\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData.exe
+C:\gitRepository\70-483-DEMO\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData\obj\Debug\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData.pdb
+C:\gitRepository\70-483-DEMO\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData\obj\Debug\1.3-UsingAPublicAndPrivateKeyToEncryptAndDecryptData.csprojAssemblyReference.cache

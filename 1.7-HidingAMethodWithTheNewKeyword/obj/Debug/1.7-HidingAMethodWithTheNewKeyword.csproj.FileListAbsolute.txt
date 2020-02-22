@@ -1,0 +1,14 @@
+C:\gitRepository\70-483-DEMO\1.7-HidingAMethodWithTheNewKeyword\bin\Debug\1.7-HidingAMethodWithTheNewKeyword.exe.config
+C:\gitRepository\70-483-DEMO\1.7-HidingAMethodWithTheNewKeyword\bin\Debug\1.7-HidingAMethodWithTheNewKeyword.exe
+C:\gitRepository\70-483-DEMO\1.7-HidingAMethodWithTheNewKeyword\bin\Debug\1.7-HidingAMethodWithTheNewKeyword.pdb
+C:\gitRepository\70-483-DEMO\1.7-HidingAMethodWithTheNewKeyword\obj\Debug\1.7-HidingAMethodWithTheNewKeyword.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.7-HidingAMethodWithTheNewKeyword\obj\Debug\1.7-HidingAMethodWithTheNewKeyword.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.7-HidingAMethodWithTheNewKeyword\obj\Debug\1.7-HidingAMethodWithTheNewKeyword.exe
+C:\gitRepository\70-483-DEMO\1.7-HidingAMethodWithTheNewKeyword\obj\Debug\1.7-HidingAMethodWithTheNewKeyword.pdb
+D:\GitDR\70-483\1.7-HidingAMethodWithTheNewKeyword\bin\Debug\1.7-HidingAMethodWithTheNewKeyword.exe.config
+D:\GitDR\70-483\1.7-HidingAMethodWithTheNewKeyword\bin\Debug\1.7-HidingAMethodWithTheNewKeyword.exe
+D:\GitDR\70-483\1.7-HidingAMethodWithTheNewKeyword\bin\Debug\1.7-HidingAMethodWithTheNewKeyword.pdb
+D:\GitDR\70-483\1.7-HidingAMethodWithTheNewKeyword\obj\Debug\1.7-HidingAMethodWithTheNewKeyword.csprojAssemblyReference.cache
+D:\GitDR\70-483\1.7-HidingAMethodWithTheNewKeyword\obj\Debug\1.7-HidingAMethodWithTheNewKeyword.csproj.CoreCompileInputs.cache
+D:\GitDR\70-483\1.7-HidingAMethodWithTheNewKeyword\obj\Debug\1.7-HidingAMethodWithTheNewKeyword.exe
+D:\GitDR\70-483\1.7-HidingAMethodWithTheNewKeyword\obj\Debug\1.7-HidingAMethodWithTheNewKeyword.pdb

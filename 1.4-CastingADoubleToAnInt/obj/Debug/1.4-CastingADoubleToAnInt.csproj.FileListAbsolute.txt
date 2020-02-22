@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-CastingADoubleToAnInt\bin\Debug\1.4-CastingADoubleToAnInt.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-CastingADoubleToAnInt\bin\Debug\1.4-CastingADoubleToAnInt.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-CastingADoubleToAnInt\bin\Debug\1.4-CastingADoubleToAnInt.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-CastingADoubleToAnInt\obj\Debug\1.4-CastingADoubleToAnInt.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-CastingADoubleToAnInt\obj\Debug\1.4-CastingADoubleToAnInt.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-CastingADoubleToAnInt\obj\Debug\1.4-CastingADoubleToAnInt.pdb

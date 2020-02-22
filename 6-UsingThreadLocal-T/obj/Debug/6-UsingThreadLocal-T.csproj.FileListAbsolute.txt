@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\6-UsingThreadLocal-T\bin\Debug\6-UsingThreadLocal-T.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\6-UsingThreadLocal-T\bin\Debug\6-UsingThreadLocal-T.exe
+C:\Users\Diego\source\repos\70-483-DEMO\6-UsingThreadLocal-T\bin\Debug\6-UsingThreadLocal-T.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\6-UsingThreadLocal-T\obj\Debug\6-UsingThreadLocal-T.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\6-UsingThreadLocal-T\obj\Debug\6-UsingThreadLocal-T.exe
+C:\Users\Diego\source\repos\70-483-DEMO\6-UsingThreadLocal-T\obj\Debug\6-UsingThreadLocal-T.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\6-UsingThreadLocal-T\obj\Debug\6-UsingThreadLocal-T.csprojAssemblyReference.cache

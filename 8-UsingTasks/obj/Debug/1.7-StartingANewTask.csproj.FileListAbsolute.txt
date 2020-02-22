@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\8-UsingTasks\bin\Debug\8-UsingTasks.exe.config
+C:\gitRepository\70-483-DEMO\8-UsingTasks\bin\Debug\8-UsingTasks.exe
+C:\gitRepository\70-483-DEMO\8-UsingTasks\bin\Debug\8-UsingTasks.pdb
+C:\gitRepository\70-483-DEMO\8-UsingTasks\obj\Debug\1.7-StartingANewTask.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\8-UsingTasks\obj\Debug\1.7-StartingANewTask.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\8-UsingTasks\obj\Debug\8-UsingTasks.exe
+C:\gitRepository\70-483-DEMO\8-UsingTasks\obj\Debug\8-UsingTasks.pdb

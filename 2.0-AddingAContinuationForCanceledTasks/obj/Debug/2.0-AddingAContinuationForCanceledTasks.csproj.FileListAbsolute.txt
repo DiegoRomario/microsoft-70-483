@@ -1,0 +1,13 @@
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\bin\Debug\2.0-AddingAContinuationForCanceledTasks.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\bin\Debug\2.0-AddingAContinuationForCanceledTasks.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\bin\Debug\2.0-AddingAContinuationForCanceledTasks.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\obj\Debug\2.0-AddingAContinuationForCanceledTasks.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\obj\Debug\2.0-AddingAContinuationForCanceledTasks.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\obj\Debug\2.0-AddingAContinuationForCanceledTasks.pdb
+C:\gitRepository\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\bin\Debug\2.0-AddingAContinuationForCanceledTasks.exe.config
+C:\gitRepository\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\bin\Debug\2.0-AddingAContinuationForCanceledTasks.exe
+C:\gitRepository\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\bin\Debug\2.0-AddingAContinuationForCanceledTasks.pdb
+C:\gitRepository\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\obj\Debug\2.0-AddingAContinuationForCanceledTasks.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\obj\Debug\2.0-AddingAContinuationForCanceledTasks.exe
+C:\gitRepository\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\obj\Debug\2.0-AddingAContinuationForCanceledTasks.pdb
+C:\gitRepository\70-483-DEMO\2.0-AddingAContinuationForCanceledTasks\obj\Debug\2.0-AddingAContinuationForCanceledTasks.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\2.4-OrderedParallelQuery\bin\Debug\2.4-OrderedParallelQuery.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\2.4-OrderedParallelQuery\bin\Debug\2.4-OrderedParallelQuery.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.4-OrderedParallelQuery\bin\Debug\2.4-OrderedParallelQuery.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.4-OrderedParallelQuery\obj\Debug\2.4-OrderedParallelQuery.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.4-OrderedParallelQuery\obj\Debug\2.4-OrderedParallelQuery.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.4-OrderedParallelQuery\obj\Debug\2.4-OrderedParallelQuery.pdb

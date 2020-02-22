@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.2-UsingTheXMLAttributesToConfigureSerialization\bin\Debug\1.2-UsingTheXMLAttributesToConfigureSerialization.exe.config
+C:\gitRepository\70-483-DEMO\1.2-UsingTheXMLAttributesToConfigureSerialization\bin\Debug\1.2-UsingTheXMLAttributesToConfigureSerialization.exe
+C:\gitRepository\70-483-DEMO\1.2-UsingTheXMLAttributesToConfigureSerialization\bin\Debug\1.2-UsingTheXMLAttributesToConfigureSerialization.pdb
+C:\gitRepository\70-483-DEMO\1.2-UsingTheXMLAttributesToConfigureSerialization\obj\Debug\1.2-UsingTheXMLAttributesToConfigureSerialization.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.2-UsingTheXMLAttributesToConfigureSerialization\obj\Debug\1.2-UsingTheXMLAttributesToConfigureSerialization.exe
+C:\gitRepository\70-483-DEMO\1.2-UsingTheXMLAttributesToConfigureSerialization\obj\Debug\1.2-UsingTheXMLAttributesToConfigureSerialization.pdb

@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingTask.WaitAny\bin\Debug\1.5-UsingTask.WaitAny.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingTask.WaitAny\bin\Debug\1.5-UsingTask.WaitAny.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingTask.WaitAny\bin\Debug\1.5-UsingTask.WaitAny.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingTask.WaitAny\obj\Debug\1.5-UsingTask.WaitAny.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingTask.WaitAny\obj\Debug\1.5-UsingTask.WaitAny.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingTask.WaitAny\obj\Debug\1.5-UsingTask.WaitAny.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingTask.WaitAny\obj\Debug\1.5-UsingTask.WaitAny.pdb

@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.9-ThrowingOperationCanceledException\bin\Debug\1.9-ThrowingOperationCanceledException.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.9-ThrowingOperationCanceledException\bin\Debug\1.9-ThrowingOperationCanceledException.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.9-ThrowingOperationCanceledException\bin\Debug\1.9-ThrowingOperationCanceledException.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.9-ThrowingOperationCanceledException\obj\Debug\1.9-ThrowingOperationCanceledException.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.9-ThrowingOperationCanceledException\obj\Debug\1.9-ThrowingOperationCanceledException.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.9-ThrowingOperationCanceledException\obj\Debug\1.9-ThrowingOperationCanceledException.pdb
+C:\gitRepository\70-483-DEMO\1.9-ThrowingOperationCanceledException\bin\Debug\1.9-ThrowingOperationCanceledException.exe.config
+C:\gitRepository\70-483-DEMO\1.9-ThrowingOperationCanceledException\bin\Debug\1.9-ThrowingOperationCanceledException.exe
+C:\gitRepository\70-483-DEMO\1.9-ThrowingOperationCanceledException\bin\Debug\1.9-ThrowingOperationCanceledException.pdb
+C:\gitRepository\70-483-DEMO\1.9-ThrowingOperationCanceledException\obj\Debug\1.9-ThrowingOperationCanceledException.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.9-ThrowingOperationCanceledException\obj\Debug\1.9-ThrowingOperationCanceledException.exe
+C:\gitRepository\70-483-DEMO\1.9-ThrowingOperationCanceledException\obj\Debug\1.9-ThrowingOperationCanceledException.pdb

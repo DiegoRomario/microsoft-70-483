@@ -1,0 +1,7 @@
+D:\GitDR\70-483\1.6-MovingADirectory\bin\Debug\1.6-MovingADirectory.exe.config
+D:\GitDR\70-483\1.6-MovingADirectory\bin\Debug\1.6-MovingADirectory.exe
+D:\GitDR\70-483\1.6-MovingADirectory\bin\Debug\1.6-MovingADirectory.pdb
+D:\GitDR\70-483\1.6-MovingADirectory\obj\Debug\1.6-MovingADirectory.csproj.CoreCompileInputs.cache
+D:\GitDR\70-483\1.6-MovingADirectory\obj\Debug\1.6-MovingADirectory.exe
+D:\GitDR\70-483\1.6-MovingADirectory\obj\Debug\1.6-MovingADirectory.pdb
+D:\GitDR\70-483\1.6-MovingADirectory\obj\Debug\1.6-MovingADirectory.csprojAssemblyReference.cache

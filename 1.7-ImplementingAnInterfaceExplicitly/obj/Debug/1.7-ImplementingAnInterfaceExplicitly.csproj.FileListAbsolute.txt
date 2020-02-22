@@ -1,0 +1,7 @@
+D:\GitDR\70-483\1.7-ImplementingAnInterfaceExplicitly\bin\Debug\1.7-ImplementingAnInterfaceExplicitly.exe.config
+D:\GitDR\70-483\1.7-ImplementingAnInterfaceExplicitly\bin\Debug\1.7-ImplementingAnInterfaceExplicitly.exe
+D:\GitDR\70-483\1.7-ImplementingAnInterfaceExplicitly\bin\Debug\1.7-ImplementingAnInterfaceExplicitly.pdb
+D:\GitDR\70-483\1.7-ImplementingAnInterfaceExplicitly\obj\Debug\1.7-ImplementingAnInterfaceExplicitly.csprojAssemblyReference.cache
+D:\GitDR\70-483\1.7-ImplementingAnInterfaceExplicitly\obj\Debug\1.7-ImplementingAnInterfaceExplicitly.csproj.CoreCompileInputs.cache
+D:\GitDR\70-483\1.7-ImplementingAnInterfaceExplicitly\obj\Debug\1.7-ImplementingAnInterfaceExplicitly.exe
+D:\GitDR\70-483\1.7-ImplementingAnInterfaceExplicitly\obj\Debug\1.7-ImplementingAnInterfaceExplicitly.pdb

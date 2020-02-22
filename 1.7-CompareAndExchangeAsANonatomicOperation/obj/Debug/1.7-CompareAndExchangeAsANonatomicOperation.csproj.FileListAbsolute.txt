@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\bin\Debug\1.7-CompareAndExchangeAsANonatomicOperation.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\bin\Debug\1.7-CompareAndExchangeAsANonatomicOperation.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\bin\Debug\1.7-CompareAndExchangeAsANonatomicOperation.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\obj\Debug\1.7-CompareAndExchangeAsANonatomicOperation.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\obj\Debug\1.7-CompareAndExchangeAsANonatomicOperation.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\obj\Debug\1.7-CompareAndExchangeAsANonatomicOperation.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\obj\Debug\1.7-CompareAndExchangeAsANonatomicOperation.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\bin\Debug\1.7-CompareAndExchangeAsANonatomicOperation.exe.config
+C:\gitRepository\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\bin\Debug\1.7-CompareAndExchangeAsANonatomicOperation.exe
+C:\gitRepository\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\bin\Debug\1.7-CompareAndExchangeAsANonatomicOperation.pdb
+C:\gitRepository\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\obj\Debug\1.7-CompareAndExchangeAsANonatomicOperation.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\obj\Debug\1.7-CompareAndExchangeAsANonatomicOperation.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\obj\Debug\1.7-CompareAndExchangeAsANonatomicOperation.exe
+C:\gitRepository\70-483-DEMO\1.7-CompareAndExchangeAsANonatomicOperation\obj\Debug\1.7-CompareAndExchangeAsANonatomicOperation.pdb

@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\2.1-ExecutingAMethodThroughReflection\bin\Debug\2.1-ExecutingAMethodThroughReflection.exe.config
+C:\gitRepository\70-483-DEMO\2.1-ExecutingAMethodThroughReflection\bin\Debug\2.1-ExecutingAMethodThroughReflection.exe
+C:\gitRepository\70-483-DEMO\2.1-ExecutingAMethodThroughReflection\bin\Debug\2.1-ExecutingAMethodThroughReflection.pdb
+C:\gitRepository\70-483-DEMO\2.1-ExecutingAMethodThroughReflection\obj\Debug\2.1-ExecutingAMethodThroughReflection.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.1-ExecutingAMethodThroughReflection\obj\Debug\2.1-ExecutingAMethodThroughReflection.exe
+C:\gitRepository\70-483-DEMO\2.1-ExecutingAMethodThroughReflection\obj\Debug\2.1-ExecutingAMethodThroughReflection.pdb
+C:\gitRepository\70-483-DEMO\2.1-ExecutingAMethodThroughReflection\obj\Debug\2.1-ExecutingAMethodThroughReflection.csprojAssemblyReference.cache

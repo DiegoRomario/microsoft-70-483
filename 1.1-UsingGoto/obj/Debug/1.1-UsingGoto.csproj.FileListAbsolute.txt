@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UsingGoto\bin\Debug\1.1-UsingGoto.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UsingGoto\bin\Debug\1.1-UsingGoto.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UsingGoto\bin\Debug\1.1-UsingGoto.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UsingGoto\obj\Debug\1.1-UsingGoto.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UsingGoto\obj\Debug\1.1-UsingGoto.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UsingGoto\obj\Debug\1.1-UsingGoto.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UsingGoto\obj\Debug\1.1-UsingGoto.pdb

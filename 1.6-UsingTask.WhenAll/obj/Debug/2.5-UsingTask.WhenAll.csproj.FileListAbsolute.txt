@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.6-UsingTask.WhenAll\bin\Debug\1.6-UsingTask.WhenAll.exe.config
+C:\gitRepository\70-483-DEMO\1.6-UsingTask.WhenAll\bin\Debug\1.6-UsingTask.WhenAll.exe
+C:\gitRepository\70-483-DEMO\1.6-UsingTask.WhenAll\bin\Debug\1.6-UsingTask.WhenAll.pdb
+C:\gitRepository\70-483-DEMO\1.6-UsingTask.WhenAll\obj\Debug\2.5-UsingTask.WhenAll.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.6-UsingTask.WhenAll\obj\Debug\1.6-UsingTask.WhenAll.exe
+C:\gitRepository\70-483-DEMO\1.6-UsingTask.WhenAll\obj\Debug\1.6-UsingTask.WhenAll.pdb

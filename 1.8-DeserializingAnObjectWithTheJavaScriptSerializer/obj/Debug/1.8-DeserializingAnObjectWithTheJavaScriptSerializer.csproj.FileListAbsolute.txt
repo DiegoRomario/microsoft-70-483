@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.8-DeserializingAnObjectWithTheJavaScriptSerializer\bin\Debug\1.8-DeserializingAnObjectWithTheJavaScriptSerializer.exe.config
+C:\gitRepository\70-483-DEMO\1.8-DeserializingAnObjectWithTheJavaScriptSerializer\bin\Debug\1.8-DeserializingAnObjectWithTheJavaScriptSerializer.exe
+C:\gitRepository\70-483-DEMO\1.8-DeserializingAnObjectWithTheJavaScriptSerializer\bin\Debug\1.8-DeserializingAnObjectWithTheJavaScriptSerializer.pdb
+C:\gitRepository\70-483-DEMO\1.8-DeserializingAnObjectWithTheJavaScriptSerializer\obj\Debug\1.8-DeserializingAnObjectWithTheJavaScriptSerializer.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.8-DeserializingAnObjectWithTheJavaScriptSerializer\obj\Debug\1.8-DeserializingAnObjectWithTheJavaScriptSerializer.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.8-DeserializingAnObjectWithTheJavaScriptSerializer\obj\Debug\1.8-DeserializingAnObjectWithTheJavaScriptSerializer.exe
+C:\gitRepository\70-483-DEMO\1.8-DeserializingAnObjectWithTheJavaScriptSerializer\obj\Debug\1.8-DeserializingAnObjectWithTheJavaScriptSerializer.pdb

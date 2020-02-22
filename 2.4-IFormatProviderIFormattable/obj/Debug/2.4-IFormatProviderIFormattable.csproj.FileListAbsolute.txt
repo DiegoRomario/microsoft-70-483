@@ -1,0 +1,14 @@
+D:\GitDR\70-483\2.4-IFormatProviderIFormattable\bin\Debug\2.4-IFormatProviderIFormattable.exe.config
+D:\GitDR\70-483\2.4-IFormatProviderIFormattable\bin\Debug\2.4-IFormatProviderIFormattable.exe
+D:\GitDR\70-483\2.4-IFormatProviderIFormattable\bin\Debug\2.4-IFormatProviderIFormattable.pdb
+D:\GitDR\70-483\2.4-IFormatProviderIFormattable\obj\Debug\2.4-IFormatProviderIFormattable.csprojAssemblyReference.cache
+D:\GitDR\70-483\2.4-IFormatProviderIFormattable\obj\Debug\2.4-IFormatProviderIFormattable.csproj.CoreCompileInputs.cache
+D:\GitDR\70-483\2.4-IFormatProviderIFormattable\obj\Debug\2.4-IFormatProviderIFormattable.exe
+D:\GitDR\70-483\2.4-IFormatProviderIFormattable\obj\Debug\2.4-IFormatProviderIFormattable.pdb
+C:\gitRepository\70-483-DEMO\2.4-IFormatProviderIFormattable\bin\Debug\2.4-IFormatProviderIFormattable.exe.config
+C:\gitRepository\70-483-DEMO\2.4-IFormatProviderIFormattable\bin\Debug\2.4-IFormatProviderIFormattable.exe
+C:\gitRepository\70-483-DEMO\2.4-IFormatProviderIFormattable\bin\Debug\2.4-IFormatProviderIFormattable.pdb
+C:\gitRepository\70-483-DEMO\2.4-IFormatProviderIFormattable\obj\Debug\2.4-IFormatProviderIFormattable.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\2.4-IFormatProviderIFormattable\obj\Debug\2.4-IFormatProviderIFormattable.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.4-IFormatProviderIFormattable\obj\Debug\2.4-IFormatProviderIFormattable.exe
+C:\gitRepository\70-483-DEMO\2.4-IFormatProviderIFormattable\obj\Debug\2.4-IFormatProviderIFormattable.pdb

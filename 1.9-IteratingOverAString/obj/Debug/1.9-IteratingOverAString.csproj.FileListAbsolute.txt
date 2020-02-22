@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.9-IteratingOverAString\obj\Debug\1.9-IteratingOverAString.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.9-IteratingOverAString\obj\Debug\1.9-IteratingOverAString.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.9-IteratingOverAString\bin\Debug\1.9-IteratingOverAString.exe.config
+C:\gitRepository\70-483-DEMO\1.9-IteratingOverAString\bin\Debug\1.9-IteratingOverAString.exe
+C:\gitRepository\70-483-DEMO\1.9-IteratingOverAString\bin\Debug\1.9-IteratingOverAString.pdb
+C:\gitRepository\70-483-DEMO\1.9-IteratingOverAString\obj\Debug\1.9-IteratingOverAString.exe
+C:\gitRepository\70-483-DEMO\1.9-IteratingOverAString\obj\Debug\1.9-IteratingOverAString.pdb

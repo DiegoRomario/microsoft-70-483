@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\bin\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\bin\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\bin\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\obj\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\obj\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\obj\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\obj\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.pdb
+C:\gitRepository\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\bin\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.exe.config
+C:\gitRepository\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\bin\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.exe
+C:\gitRepository\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\bin\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.pdb
+C:\gitRepository\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\obj\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\obj\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\obj\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.exe
+C:\gitRepository\70-483-DEMO\1.1-AccessingSharedDataInAMultithreadedApplication\obj\Debug\1.1-AccessingSharedDataInAMultithreadedApplication.pdb

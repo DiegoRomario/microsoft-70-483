@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\3.0-UsingAConcurrentBag\bin\Debug\3.0-UsingAConcurrentBag.exe.config
+C:\gitRepository\70-483-DEMO\3.0-UsingAConcurrentBag\bin\Debug\3.0-UsingAConcurrentBag.exe
+C:\gitRepository\70-483-DEMO\3.0-UsingAConcurrentBag\bin\Debug\3.0-UsingAConcurrentBag.pdb
+C:\gitRepository\70-483-DEMO\3.0-UsingAConcurrentBag\obj\Debug\3.9-UsingAConcurrentBag.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\3.0-UsingAConcurrentBag\obj\Debug\3.9-UsingAConcurrentBag.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\3.0-UsingAConcurrentBag\obj\Debug\3.0-UsingAConcurrentBag.exe
+C:\gitRepository\70-483-DEMO\3.0-UsingAConcurrentBag\obj\Debug\3.0-UsingAConcurrentBag.pdb

@@ -1,0 +1,11 @@
+D:\GitDR\70-483\3.3-ExecutingAnAsynchronousHTTPRequest\bin\Debug\netcoreapp2.2\3.3-ExecutingAnAsynchronousHTTPRequest.deps.json
+D:\GitDR\70-483\3.3-ExecutingAnAsynchronousHTTPRequest\bin\Debug\netcoreapp2.2\3.3-ExecutingAnAsynchronousHTTPRequest.runtimeconfig.json
+D:\GitDR\70-483\3.3-ExecutingAnAsynchronousHTTPRequest\bin\Debug\netcoreapp2.2\3.3-ExecutingAnAsynchronousHTTPRequest.runtimeconfig.dev.json
+D:\GitDR\70-483\3.3-ExecutingAnAsynchronousHTTPRequest\bin\Debug\netcoreapp2.2\3.3-ExecutingAnAsynchronousHTTPRequest.dll
+D:\GitDR\70-483\3.3-ExecutingAnAsynchronousHTTPRequest\bin\Debug\netcoreapp2.2\3.3-ExecutingAnAsynchronousHTTPRequest.pdb
+D:\GitDR\70-483\3.3-ExecutingAnAsynchronousHTTPRequest\obj\Debug\netcoreapp2.2\3.3-ExecutingAnAsynchronousHTTPRequest.csprojAssemblyReference.cache
+D:\GitDR\70-483\3.3-ExecutingAnAsynchronousHTTPRequest\obj\Debug\netcoreapp2.2\3.3-ExecutingAnAsynchronousHTTPRequest.csproj.CoreCompileInputs.cache
+D:\GitDR\70-483\3.3-ExecutingAnAsynchronousHTTPRequest\obj\Debug\netcoreapp2.2\3.3-ExecutingAnAsynchronousHTTPRequest.AssemblyInfoInputs.cache
+D:\GitDR\70-483\3.3-ExecutingAnAsynchronousHTTPRequest\obj\Debug\netcoreapp2.2\3.3-ExecutingAnAsynchronousHTTPRequest.AssemblyInfo.cs
+D:\GitDR\70-483\3.3-ExecutingAnAsynchronousHTTPRequest\obj\Debug\netcoreapp2.2\3.3-ExecutingAnAsynchronousHTTPRequest.dll
+D:\GitDR\70-483\3.3-ExecutingAnAsynchronousHTTPRequest\obj\Debug\netcoreapp2.2\3.3-ExecutingAnAsynchronousHTTPRequest.pdb

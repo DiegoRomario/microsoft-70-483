@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\2.8-UsingABufferedStream\bin\Debug\2.8-UsingABufferedStream.exe.config
+C:\gitRepository\70-483-DEMO\2.8-UsingABufferedStream\bin\Debug\2.8-UsingABufferedStream.exe
+C:\gitRepository\70-483-DEMO\2.8-UsingABufferedStream\bin\Debug\2.8-UsingABufferedStream.pdb
+C:\gitRepository\70-483-DEMO\2.8-UsingABufferedStream\obj\Debug\2.8-UsingABufferedStream.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\2.8-UsingABufferedStream\obj\Debug\2.8-UsingABufferedStream.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.8-UsingABufferedStream\obj\Debug\2.8-UsingABufferedStream.exe
+C:\gitRepository\70-483-DEMO\2.8-UsingABufferedStream\obj\Debug\2.8-UsingABufferedStream.pdb

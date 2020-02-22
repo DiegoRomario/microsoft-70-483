@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\3.4-CreatingXMLWithTheXElementClass\bin\Debug\3.4-CreatingXMLWithTheXElementClass.exe.config
+C:\gitRepository\70-483-DEMO\3.4-CreatingXMLWithTheXElementClass\bin\Debug\3.4-CreatingXMLWithTheXElementClass.exe
+C:\gitRepository\70-483-DEMO\3.4-CreatingXMLWithTheXElementClass\bin\Debug\3.4-CreatingXMLWithTheXElementClass.pdb
+C:\gitRepository\70-483-DEMO\3.4-CreatingXMLWithTheXElementClass\obj\Debug\3.4-CreatingXMLWithTheXElementClass.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\3.4-CreatingXMLWithTheXElementClass\obj\Debug\3.4-CreatingXMLWithTheXElementClass.exe
+C:\gitRepository\70-483-DEMO\3.4-CreatingXMLWithTheXElementClass\obj\Debug\3.4-CreatingXMLWithTheXElementClass.pdb
+C:\gitRepository\70-483-DEMO\3.4-CreatingXMLWithTheXElementClass\obj\Debug\3.4-CreatingXMLWithTheXElementClass.csprojAssemblyReference.cache

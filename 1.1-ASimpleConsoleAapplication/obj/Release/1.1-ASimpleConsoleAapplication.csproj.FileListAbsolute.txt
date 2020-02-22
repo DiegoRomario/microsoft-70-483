@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.1-ASimpleConsoleAapplication\bin\Release\1.1-ASimpleConsoleAapplication.exe.config
+C:\gitRepository\70-483-DEMO\1.1-ASimpleConsoleAapplication\bin\Release\1.1-ASimpleConsoleAapplication.exe
+C:\gitRepository\70-483-DEMO\1.1-ASimpleConsoleAapplication\bin\Release\1.1-ASimpleConsoleAapplication.pdb
+C:\gitRepository\70-483-DEMO\1.1-ASimpleConsoleAapplication\obj\Release\1.1-ASimpleConsoleAapplication.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.1-ASimpleConsoleAapplication\obj\Release\1.1-ASimpleConsoleAapplication.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.1-ASimpleConsoleAapplication\obj\Release\1.1-ASimpleConsoleAapplication.exe
+C:\gitRepository\70-483-DEMO\1.1-ASimpleConsoleAapplication\obj\Release\1.1-ASimpleConsoleAapplication.pdb

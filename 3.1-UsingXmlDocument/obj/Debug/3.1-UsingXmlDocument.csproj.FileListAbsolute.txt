@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\3.1-UsingXmlDocument\bin\Debug\3.1-UsingXmlDocument.exe.config
+C:\gitRepository\70-483-DEMO\3.1-UsingXmlDocument\bin\Debug\3.1-UsingXmlDocument.exe
+C:\gitRepository\70-483-DEMO\3.1-UsingXmlDocument\bin\Debug\3.1-UsingXmlDocument.pdb
+C:\gitRepository\70-483-DEMO\3.1-UsingXmlDocument\obj\Debug\3.1-UsingXmlDocument.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\3.1-UsingXmlDocument\obj\Debug\3.1-UsingXmlDocument.exe
+C:\gitRepository\70-483-DEMO\3.1-UsingXmlDocument\obj\Debug\3.1-UsingXmlDocument.pdb

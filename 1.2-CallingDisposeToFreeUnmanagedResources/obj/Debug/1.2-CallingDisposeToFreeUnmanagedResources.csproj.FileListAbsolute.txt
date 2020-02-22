@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.2-CallingDisposeToFreeUnmanagedResources\bin\Debug\1.2-CallingDisposeToFreeUnmanagedResources.exe.config
+C:\gitRepository\70-483-DEMO\1.2-CallingDisposeToFreeUnmanagedResources\bin\Debug\1.2-CallingDisposeToFreeUnmanagedResources.exe
+C:\gitRepository\70-483-DEMO\1.2-CallingDisposeToFreeUnmanagedResources\bin\Debug\1.2-CallingDisposeToFreeUnmanagedResources.pdb
+C:\gitRepository\70-483-DEMO\1.2-CallingDisposeToFreeUnmanagedResources\obj\Debug\1.2-CallingDisposeToFreeUnmanagedResources.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.2-CallingDisposeToFreeUnmanagedResources\obj\Debug\1.2-CallingDisposeToFreeUnmanagedResources.exe
+C:\gitRepository\70-483-DEMO\1.2-CallingDisposeToFreeUnmanagedResources\obj\Debug\1.2-CallingDisposeToFreeUnmanagedResources.pdb

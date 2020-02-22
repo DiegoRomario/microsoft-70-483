@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\10-TaskAddingContinuation\bin\Debug\10-TaskAddingContinuation.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\10-TaskAddingContinuation\bin\Debug\10-TaskAddingContinuation.exe
+C:\Users\Diego\source\repos\70-483-DEMO\10-TaskAddingContinuation\bin\Debug\10-TaskAddingContinuation.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\10-TaskAddingContinuation\obj\Debug\10-TaskAddingContinuation.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\10-TaskAddingContinuation\obj\Debug\10-TaskAddingContinuation.exe
+C:\Users\Diego\source\repos\70-483-DEMO\10-TaskAddingContinuation\obj\Debug\10-TaskAddingContinuation.pdb

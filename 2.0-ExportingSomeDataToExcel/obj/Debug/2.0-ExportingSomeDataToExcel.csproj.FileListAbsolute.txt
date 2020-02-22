@@ -1,0 +1,12 @@
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\bin\Debug\2.0-ExportingSomeDataToExcel.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\bin\Debug\2.0-ExportingSomeDataToExcel.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\bin\Debug\2.0-ExportingSomeDataToExcel.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\obj\Debug\2.0-ExportingSomeDataToExcel.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\obj\Debug\Interop.LCC11.dll
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\obj\Debug\Interop.MsoEuro.dll
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\obj\Debug\Interop.XDocsDesigner.dll
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\obj\Debug\2.0-ExportingSomeDataToExcel.csproj.ResolveComReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\obj\Debug\2.0-ExportingSomeDataToExcel.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\obj\Debug\2.0-ExportingSomeDataToExcel.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ExportingSomeDataToExcel\obj\Debug\2.0-ExportingSomeDataToExcel.pdb

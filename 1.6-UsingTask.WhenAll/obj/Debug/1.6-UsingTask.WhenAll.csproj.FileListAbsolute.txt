@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTask.WhenAll\bin\Debug\1.6-UsingTask.WhenAll.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTask.WhenAll\bin\Debug\1.6-UsingTask.WhenAll.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTask.WhenAll\bin\Debug\1.6-UsingTask.WhenAll.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTask.WhenAll\obj\Debug\1.6-UsingTask.WhenAll.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTask.WhenAll\obj\Debug\1.6-UsingTask.WhenAll.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTask.WhenAll\obj\Debug\1.6-UsingTask.WhenAll.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTask.WhenAll\obj\Debug\1.6-UsingTask.WhenAll.pdb

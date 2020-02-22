@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.2-UsingAStringBuilderInALoop\bin\Debug\1.2-UsingAStringBuilderInALoop.exe.config
+C:\gitRepository\70-483-DEMO\1.2-UsingAStringBuilderInALoop\bin\Debug\1.2-UsingAStringBuilderInALoop.exe
+C:\gitRepository\70-483-DEMO\1.2-UsingAStringBuilderInALoop\bin\Debug\1.2-UsingAStringBuilderInALoop.pdb
+C:\gitRepository\70-483-DEMO\1.2-UsingAStringBuilderInALoop\obj\Debug\1.2-UsingAStringBuilderInALoop.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.2-UsingAStringBuilderInALoop\obj\Debug\1.2-UsingAStringBuilderInALoop.exe
+C:\gitRepository\70-483-DEMO\1.2-UsingAStringBuilderInALoop\obj\Debug\1.2-UsingAStringBuilderInALoop.pdb
+C:\gitRepository\70-483-DEMO\1.2-UsingAStringBuilderInALoop\obj\Debug\1.2-UsingAStringBuilderInALoop.csprojAssemblyReference.cache

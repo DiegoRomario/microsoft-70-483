@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\2.3-CreateAndUseAFileStream\bin\Debug\2.3-CreateAndUseAFileStream.exe.config
+C:\gitRepository\70-483-DEMO\2.3-CreateAndUseAFileStream\bin\Debug\2.3-CreateAndUseAFileStream.exe
+C:\gitRepository\70-483-DEMO\2.3-CreateAndUseAFileStream\bin\Debug\2.3-CreateAndUseAFileStream.pdb
+C:\gitRepository\70-483-DEMO\2.3-CreateAndUseAFileStream\obj\Debug\2.3-CreateAndUseAFileStream.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\2.3-CreateAndUseAFileStream\obj\Debug\2.3-CreateAndUseAFileStream.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.3-CreateAndUseAFileStream\obj\Debug\2.3-CreateAndUseAFileStream.exe
+C:\gitRepository\70-483-DEMO\2.3-CreateAndUseAFileStream\obj\Debug\2.3-CreateAndUseAFileStream.pdb

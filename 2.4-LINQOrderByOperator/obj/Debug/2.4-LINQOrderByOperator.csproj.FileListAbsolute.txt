@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\2.4-LINQOrderByOperator\bin\Debug\2.4-LINQOrderByOperator.exe.config
+C:\gitRepository\70-483-DEMO\2.4-LINQOrderByOperator\bin\Debug\2.4-LINQOrderByOperator.exe
+C:\gitRepository\70-483-DEMO\2.4-LINQOrderByOperator\bin\Debug\2.4-LINQOrderByOperator.pdb
+C:\gitRepository\70-483-DEMO\2.4-LINQOrderByOperator\obj\Debug\2.4-LINQOrderByOperator.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.4-LINQOrderByOperator\obj\Debug\2.4-LINQOrderByOperator.exe
+C:\gitRepository\70-483-DEMO\2.4-LINQOrderByOperator\obj\Debug\2.4-LINQOrderByOperator.pdb

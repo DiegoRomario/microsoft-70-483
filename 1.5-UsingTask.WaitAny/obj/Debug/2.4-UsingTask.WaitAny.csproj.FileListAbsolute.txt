@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.5-UsingTask.WaitAny\bin\Debug\1.5-UsingTask.WaitAny.exe.config
+C:\gitRepository\70-483-DEMO\1.5-UsingTask.WaitAny\bin\Debug\1.5-UsingTask.WaitAny.exe
+C:\gitRepository\70-483-DEMO\1.5-UsingTask.WaitAny\bin\Debug\1.5-UsingTask.WaitAny.pdb
+C:\gitRepository\70-483-DEMO\1.5-UsingTask.WaitAny\obj\Debug\2.4-UsingTask.WaitAny.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.5-UsingTask.WaitAny\obj\Debug\1.5-UsingTask.WaitAny.exe
+C:\gitRepository\70-483-DEMO\1.5-UsingTask.WaitAny\obj\Debug\1.5-UsingTask.WaitAny.pdb

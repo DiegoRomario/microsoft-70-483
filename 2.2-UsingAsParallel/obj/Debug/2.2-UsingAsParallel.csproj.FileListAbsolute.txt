@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\2.2-UsingAsParallel\bin\Debug\2.2-UsingAsParallel.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\2.2-UsingAsParallel\bin\Debug\2.2-UsingAsParallel.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.2-UsingAsParallel\bin\Debug\2.2-UsingAsParallel.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.2-UsingAsParallel\obj\Debug\2.2-UsingAsParallel.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.2-UsingAsParallel\obj\Debug\2.2-UsingAsParallel.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.2-UsingAsParallel\obj\Debug\2.2-UsingAsParallel.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.2-UsingAsParallel\obj\Debug\2.2-UsingAsParallel.pdb

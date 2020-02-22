@@ -1,0 +1,14 @@
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\bin\Debug\1.9-InheritingFromList-T-ToFormACustomCollection.exe.config
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\bin\Debug\1.9-InheritingFromList-T-ToFormACustomCollection.exe
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\bin\Debug\1.9-InheritingFromList-T-ToFormACustomCollection.pdb
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\bin\Debug\1.8-UsingTheDataContractJsonSerializer.exe
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\bin\Debug\2.4-IFormatProviderIFormattable.exe
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\bin\Debug\1.8-UsingTheDataContractJsonSerializer.pdb
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\bin\Debug\1.8-UsingTheDataContractJsonSerializer.exe.config
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\bin\Debug\2.4-IFormatProviderIFormattable.pdb
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\bin\Debug\2.4-IFormatProviderIFormattable.exe.config
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\obj\Debug\1.9-InheritingFromList-T-ToFormACustomCollection.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\obj\Debug\1.9-InheritingFromList-T-ToFormACustomCollection.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\obj\Debug\1.9-InheritingFromList-T-ToFormACustomCollection.csproj.CopyComplete
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\obj\Debug\1.9-InheritingFromList-T-ToFormACustomCollection.exe
+C:\gitRepository\70-483-DEMO\1.9-InheritingFromList-T-ToFormACustomCollection\obj\Debug\1.9-InheritingFromList-T-ToFormACustomCollection.pdb

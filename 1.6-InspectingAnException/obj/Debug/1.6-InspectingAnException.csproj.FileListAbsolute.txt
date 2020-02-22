@@ -1,0 +1,13 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-InspectingAnException\bin\Debug\1.6-InspectingAnException.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-InspectingAnException\bin\Debug\1.6-InspectingAnException.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-InspectingAnException\bin\Debug\1.6-InspectingAnException.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-InspectingAnException\obj\Debug\1.6-InspectingAnException.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-InspectingAnException\obj\Debug\1.6-InspectingAnException.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-InspectingAnException\obj\Debug\1.6-InspectingAnException.pdb
+C:\gitRepository\70-483-DEMO\1.6-InspectingAnException\bin\Debug\1.6-InspectingAnException.exe.config
+C:\gitRepository\70-483-DEMO\1.6-InspectingAnException\bin\Debug\1.6-InspectingAnException.exe
+C:\gitRepository\70-483-DEMO\1.6-InspectingAnException\bin\Debug\1.6-InspectingAnException.pdb
+C:\gitRepository\70-483-DEMO\1.6-InspectingAnException\obj\Debug\1.6-InspectingAnException.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.6-InspectingAnException\obj\Debug\1.6-InspectingAnException.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.6-InspectingAnException\obj\Debug\1.6-InspectingAnException.exe
+C:\gitRepository\70-483-DEMO\1.6-InspectingAnException\obj\Debug\1.6-InspectingAnException.pdb

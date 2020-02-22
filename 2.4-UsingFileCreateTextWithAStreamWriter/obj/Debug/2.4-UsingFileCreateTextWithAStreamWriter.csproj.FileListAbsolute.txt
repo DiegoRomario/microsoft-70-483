@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\2.4-UsingFileCreateTextWithAStreamWriter\bin\Debug\2.4-UsingFileCreateTextWithAStreamWriter.exe.config
+C:\gitRepository\70-483-DEMO\2.4-UsingFileCreateTextWithAStreamWriter\bin\Debug\2.4-UsingFileCreateTextWithAStreamWriter.exe
+C:\gitRepository\70-483-DEMO\2.4-UsingFileCreateTextWithAStreamWriter\bin\Debug\2.4-UsingFileCreateTextWithAStreamWriter.pdb
+C:\gitRepository\70-483-DEMO\2.4-UsingFileCreateTextWithAStreamWriter\obj\Debug\2.4-UsingFileCreateTextWithAStreamWriter.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\2.4-UsingFileCreateTextWithAStreamWriter\obj\Debug\2.4-UsingFileCreateTextWithAStreamWriter.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.4-UsingFileCreateTextWithAStreamWriter\obj\Debug\2.4-UsingFileCreateTextWithAStreamWriter.exe
+C:\gitRepository\70-483-DEMO\2.4-UsingFileCreateTextWithAStreamWriter\obj\Debug\2.4-UsingFileCreateTextWithAStreamWriter.pdb

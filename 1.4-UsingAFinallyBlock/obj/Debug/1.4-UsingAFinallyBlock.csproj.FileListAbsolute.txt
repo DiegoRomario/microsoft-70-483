@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingAFinallyBlock\bin\Debug\1.4-UsingAFinallyBlock.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingAFinallyBlock\bin\Debug\1.4-UsingAFinallyBlock.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingAFinallyBlock\bin\Debug\1.4-UsingAFinallyBlock.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingAFinallyBlock\obj\Debug\1.4-UsingAFinallyBlock.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingAFinallyBlock\obj\Debug\1.4-UsingAFinallyBlock.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingAFinallyBlock\obj\Debug\1.4-UsingAFinallyBlock.pdb

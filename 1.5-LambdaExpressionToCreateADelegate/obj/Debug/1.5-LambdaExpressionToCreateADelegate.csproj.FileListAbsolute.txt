@@ -1,0 +1,6 @@
+D:\GitDR\70-483\1.5-LambdaExpressionToCreateADelegate\bin\Debug\1.5-LambdaExpressionToCreateADelegate.exe.config
+D:\GitDR\70-483\1.5-LambdaExpressionToCreateADelegate\bin\Debug\1.5-LambdaExpressionToCreateADelegate.exe
+D:\GitDR\70-483\1.5-LambdaExpressionToCreateADelegate\bin\Debug\1.5-LambdaExpressionToCreateADelegate.pdb
+D:\GitDR\70-483\1.5-LambdaExpressionToCreateADelegate\obj\Debug\1.5-LambdaExpressionToCreateADelegate.csproj.CoreCompileInputs.cache
+D:\GitDR\70-483\1.5-LambdaExpressionToCreateADelegate\obj\Debug\1.5-LambdaExpressionToCreateADelegate.exe
+D:\GitDR\70-483\1.5-LambdaExpressionToCreateADelegate\obj\Debug\1.5-LambdaExpressionToCreateADelegate.pdb

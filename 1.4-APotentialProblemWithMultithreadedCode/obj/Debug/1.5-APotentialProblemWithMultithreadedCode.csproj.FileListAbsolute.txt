@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\bin\Debug\1.4-APotentialProblemWithMultithreadedCode.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\bin\Debug\1.4-APotentialProblemWithMultithreadedCode.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\bin\Debug\1.4-APotentialProblemWithMultithreadedCode.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\obj\Debug\1.5-APotentialProblemWithMultithreadedCode.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\obj\Debug\1.5-APotentialProblemWithMultithreadedCode.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\obj\Debug\1.4-APotentialProblemWithMultithreadedCode.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\obj\Debug\1.4-APotentialProblemWithMultithreadedCode.pdb
+C:\gitRepository\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\bin\Debug\1.4-APotentialProblemWithMultithreadedCode.exe.config
+C:\gitRepository\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\bin\Debug\1.4-APotentialProblemWithMultithreadedCode.exe
+C:\gitRepository\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\bin\Debug\1.4-APotentialProblemWithMultithreadedCode.pdb
+C:\gitRepository\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\obj\Debug\1.5-APotentialProblemWithMultithreadedCode.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\obj\Debug\1.5-APotentialProblemWithMultithreadedCode.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\obj\Debug\1.4-APotentialProblemWithMultithreadedCode.exe
+C:\gitRepository\70-483-DEMO\1.4-APotentialProblemWithMultithreadedCode\obj\Debug\1.4-APotentialProblemWithMultithreadedCode.pdb

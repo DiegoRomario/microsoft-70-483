@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-TaskSchedulingDifferentContinuation\obj\Debug\1.1-TaskSchedulingDifferentContinuation.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-TaskSchedulingDifferentContinuation\bin\Debug\1.1-TaskSchedulingDifferentContinuation.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-TaskSchedulingDifferentContinuation\bin\Debug\1.1-TaskSchedulingDifferentContinuation.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-TaskSchedulingDifferentContinuation\bin\Debug\1.1-TaskSchedulingDifferentContinuation.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-TaskSchedulingDifferentContinuation\obj\Debug\1.1-TaskSchedulingDifferentContinuation.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-TaskSchedulingDifferentContinuation\obj\Debug\1.1-TaskSchedulingDifferentContinuation.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-TaskSchedulingDifferentContinuation\obj\Debug\1.1-TaskSchedulingDifferentContinuation.csprojAssemblyReference.cache

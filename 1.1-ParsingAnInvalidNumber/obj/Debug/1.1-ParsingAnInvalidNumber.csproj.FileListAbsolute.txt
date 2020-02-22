@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-ParsingAnInvalidNumber\bin\Debug\1.1-ParsingAnInvalidNumber.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-ParsingAnInvalidNumber\bin\Debug\1.1-ParsingAnInvalidNumber.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-ParsingAnInvalidNumber\bin\Debug\1.1-ParsingAnInvalidNumber.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-ParsingAnInvalidNumber\obj\Debug\1.1-ParsingAnInvalidNumber.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-ParsingAnInvalidNumber\obj\Debug\1.1-ParsingAnInvalidNumber.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-ParsingAnInvalidNumber\obj\Debug\1.1-ParsingAnInvalidNumber.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-ParsingAnInvalidNumber\obj\Debug\1.1-ParsingAnInvalidNumber.pdb
+C:\gitRepository\70-483-DEMO\1.1-ParsingAnInvalidNumber\bin\Debug\1.1-ParsingAnInvalidNumber.exe.config
+C:\gitRepository\70-483-DEMO\1.1-ParsingAnInvalidNumber\bin\Debug\1.1-ParsingAnInvalidNumber.exe
+C:\gitRepository\70-483-DEMO\1.1-ParsingAnInvalidNumber\bin\Debug\1.1-ParsingAnInvalidNumber.pdb
+C:\gitRepository\70-483-DEMO\1.1-ParsingAnInvalidNumber\obj\Debug\1.1-ParsingAnInvalidNumber.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.1-ParsingAnInvalidNumber\obj\Debug\1.1-ParsingAnInvalidNumber.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.1-ParsingAnInvalidNumber\obj\Debug\1.1-ParsingAnInvalidNumber.exe
+C:\gitRepository\70-483-DEMO\1.1-ParsingAnInvalidNumber\obj\Debug\1.1-ParsingAnInvalidNumber.pdb

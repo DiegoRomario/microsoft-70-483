@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.3-ConfiguringTraceListener\bin\Debug\1.3-ConfiguringTraceListener.exe.config
+C:\gitRepository\70-483-DEMO\1.3-ConfiguringTraceListener\bin\Debug\1.3-ConfiguringTraceListener.exe
+C:\gitRepository\70-483-DEMO\1.3-ConfiguringTraceListener\bin\Debug\1.3-ConfiguringTraceListener.pdb
+C:\gitRepository\70-483-DEMO\1.3-ConfiguringTraceListener\obj\Debug\1.3-ConfiguringTraceListener.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.3-ConfiguringTraceListener\obj\Debug\1.3-ConfiguringTraceListener.exe
+C:\gitRepository\70-483-DEMO\1.3-ConfiguringTraceListener\obj\Debug\1.3-ConfiguringTraceListener.pdb
+C:\gitRepository\70-483-DEMO\1.3-ConfiguringTraceListener\obj\Debug\1.3-ConfiguringTraceListener.csprojAssemblyReference.cache

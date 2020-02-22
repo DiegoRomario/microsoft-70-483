@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-FlagAttributeForAnEnum\bin\Debug\1.1-FlagAttributeForAnEnum.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-FlagAttributeForAnEnum\bin\Debug\1.1-FlagAttributeForAnEnum.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-FlagAttributeForAnEnum\bin\Debug\1.1-FlagAttributeForAnEnum.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-FlagAttributeForAnEnum\obj\Debug\1.1-FlagAttributeForAnEnum.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-FlagAttributeForAnEnum\obj\Debug\1.1-FlagAttributeForAnEnum.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-FlagAttributeForAnEnum\obj\Debug\1.1-FlagAttributeForAnEnum.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-FlagAttributeForAnEnum\obj\Debug\1.1-FlagAttributeForAnEnum.csprojAssemblyReference.cache

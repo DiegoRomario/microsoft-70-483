@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\7-UsingThreadPool\bin\Debug\7-UsingThreadPool.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\7-UsingThreadPool\bin\Debug\7-UsingThreadPool.exe
+C:\Users\Diego\source\repos\70-483-DEMO\7-UsingThreadPool\bin\Debug\7-UsingThreadPool.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\7-UsingThreadPool\obj\Debug\7-UsingThreadPool.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\7-UsingThreadPool\obj\Debug\7-UsingThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\7-UsingThreadPool\obj\Debug\7-UsingThreadPool.exe
+C:\Users\Diego\source\repos\70-483-DEMO\7-UsingThreadPool\obj\Debug\7-UsingThreadPool.pdb

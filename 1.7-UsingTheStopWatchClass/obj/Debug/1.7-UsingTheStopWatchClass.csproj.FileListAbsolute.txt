@@ -1,0 +1,7 @@
+D:\GitDR\70-483\1.7-UsingTheStopWatchClass\bin\Debug\1.7-UsingTheStopWatchClass.exe.config
+D:\GitDR\70-483\1.7-UsingTheStopWatchClass\bin\Debug\1.7-UsingTheStopWatchClass.exe
+D:\GitDR\70-483\1.7-UsingTheStopWatchClass\bin\Debug\1.7-UsingTheStopWatchClass.pdb
+D:\GitDR\70-483\1.7-UsingTheStopWatchClass\obj\Debug\1.7-UsingTheStopWatchClass.csprojAssemblyReference.cache
+D:\GitDR\70-483\1.7-UsingTheStopWatchClass\obj\Debug\1.7-UsingTheStopWatchClass.csproj.CoreCompileInputs.cache
+D:\GitDR\70-483\1.7-UsingTheStopWatchClass\obj\Debug\1.7-UsingTheStopWatchClass.exe
+D:\GitDR\70-483\1.7-UsingTheStopWatchClass\obj\Debug\1.7-UsingTheStopWatchClass.pdb

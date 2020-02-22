@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.3-Usinga TaskFactory\bin\Debug\1.3-Usinga TaskFactory.exe.config
+C:\gitRepository\70-483-DEMO\1.3-Usinga TaskFactory\bin\Debug\1.3-Usinga TaskFactory.exe
+C:\gitRepository\70-483-DEMO\1.3-Usinga TaskFactory\bin\Debug\1.3-Usinga TaskFactory.pdb
+C:\gitRepository\70-483-DEMO\1.3-Usinga TaskFactory\obj\Debug\2.2-UsingATaskFactory.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.3-Usinga TaskFactory\obj\Debug\2.2-UsingATaskFactory.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.3-Usinga TaskFactory\obj\Debug\1.3-Usinga TaskFactory.exe
+C:\gitRepository\70-483-DEMO\1.3-Usinga TaskFactory\obj\Debug\1.3-Usinga TaskFactory.pdb

@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\6-UsingThreadLocal-T\bin\Debug\6-UsingThreadLocal-T.exe.config
+C:\gitRepository\70-483-DEMO\6-UsingThreadLocal-T\bin\Debug\6-UsingThreadLocal-T.exe
+C:\gitRepository\70-483-DEMO\6-UsingThreadLocal-T\bin\Debug\6-UsingThreadLocal-T.pdb
+C:\gitRepository\70-483-DEMO\6-UsingThreadLocal-T\obj\Debug\1.5-UsingThreadLocal-T.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\6-UsingThreadLocal-T\obj\Debug\1.5-UsingThreadLocal-T.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\6-UsingThreadLocal-T\obj\Debug\6-UsingThreadLocal-T.exe
+C:\gitRepository\70-483-DEMO\6-UsingThreadLocal-T\obj\Debug\6-UsingThreadLocal-T.pdb

@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\9-Task-T\bin\Debug\9-Task-T.exe.config
+C:\gitRepository\70-483-DEMO\9-Task-T\bin\Debug\9-Task-T.exe
+C:\gitRepository\70-483-DEMO\9-Task-T\bin\Debug\9-Task-T.pdb
+C:\gitRepository\70-483-DEMO\9-Task-T\obj\Debug\1.8-UsingATaskThatReturnsAValue.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\9-Task-T\obj\Debug\9-Task-T.exe
+C:\gitRepository\70-483-DEMO\9-Task-T\obj\Debug\9-Task-T.pdb

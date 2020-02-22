@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.4-UsingAkey container for storing an asymmetric key\bin\Debug\1.4-UsingAkey container for storing an asymmetric key.exe.config
+C:\gitRepository\70-483-DEMO\1.4-UsingAkey container for storing an asymmetric key\bin\Debug\1.4-UsingAkey container for storing an asymmetric key.exe
+C:\gitRepository\70-483-DEMO\1.4-UsingAkey container for storing an asymmetric key\bin\Debug\1.4-UsingAkey container for storing an asymmetric key.pdb
+C:\gitRepository\70-483-DEMO\1.4-UsingAkey container for storing an asymmetric key\obj\Debug\1.4-UsingAKeyContainerForStoringAnAsymmetricKey.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.4-UsingAkey container for storing an asymmetric key\obj\Debug\1.4-UsingAkey container for storing an asymmetric key.exe
+C:\gitRepository\70-483-DEMO\1.4-UsingAkey container for storing an asymmetric key\obj\Debug\1.4-UsingAkey container for storing an asymmetric key.pdb

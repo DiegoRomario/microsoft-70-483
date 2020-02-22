@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\2.1-UsingPath.Combine\bin\Debug\2.1-UsingPath.Combine.exe.config
+C:\gitRepository\70-483-DEMO\2.1-UsingPath.Combine\bin\Debug\2.1-UsingPath.Combine.exe
+C:\gitRepository\70-483-DEMO\2.1-UsingPath.Combine\bin\Debug\2.1-UsingPath.Combine.pdb
+C:\gitRepository\70-483-DEMO\2.1-UsingPath.Combine\obj\Debug\2.1-UsingPath.Combine.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.1-UsingPath.Combine\obj\Debug\2.1-UsingPath.Combine.exe
+C:\gitRepository\70-483-DEMO\2.1-UsingPath.Combine\obj\Debug\2.1-UsingPath.Combine.pdb

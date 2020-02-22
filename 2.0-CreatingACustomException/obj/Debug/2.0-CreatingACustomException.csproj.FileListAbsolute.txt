@@ -1,0 +1,14 @@
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-CreatingACustomException\obj\Debug\2.0-CreatingACustomException.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-CreatingACustomException\obj\Debug\2.0-CreatingACustomException.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-CreatingACustomException\bin\Debug\2.0-CreatingACustomException.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-CreatingACustomException\bin\Debug\2.0-CreatingACustomException.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-CreatingACustomException\bin\Debug\2.0-CreatingACustomException.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-CreatingACustomException\obj\Debug\2.0-CreatingACustomException.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-CreatingACustomException\obj\Debug\2.0-CreatingACustomException.pdb
+C:\gitRepository\70-483-DEMO\2.0-CreatingACustomException\bin\Debug\2.0-CreatingACustomException.exe.config
+C:\gitRepository\70-483-DEMO\2.0-CreatingACustomException\bin\Debug\2.0-CreatingACustomException.exe
+C:\gitRepository\70-483-DEMO\2.0-CreatingACustomException\bin\Debug\2.0-CreatingACustomException.pdb
+C:\gitRepository\70-483-DEMO\2.0-CreatingACustomException\obj\Debug\2.0-CreatingACustomException.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\2.0-CreatingACustomException\obj\Debug\2.0-CreatingACustomException.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.0-CreatingACustomException\obj\Debug\2.0-CreatingACustomException.exe
+C:\gitRepository\70-483-DEMO\2.0-CreatingACustomException\obj\Debug\2.0-CreatingACustomException.pdb

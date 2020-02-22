@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\2.5-MakingAParallelQuerySequential\bin\Debug\2.5-MakingAParallelQuerySequential.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\2.5-MakingAParallelQuerySequential\bin\Debug\2.5-MakingAParallelQuerySequential.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.5-MakingAParallelQuerySequential\bin\Debug\2.5-MakingAParallelQuerySequential.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.5-MakingAParallelQuerySequential\obj\Debug\2.5-MakingAParallelQuerySequential.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.5-MakingAParallelQuerySequential\obj\Debug\2.5-MakingAParallelQuerySequential.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.5-MakingAParallelQuerySequential\obj\Debug\2.5-MakingAParallelQuerySequential.pdb

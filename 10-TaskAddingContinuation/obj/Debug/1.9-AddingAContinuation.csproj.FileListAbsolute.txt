@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\10-TaskAddingContinuation\bin\Debug\10-TaskAddingContinuation.exe.config
+C:\gitRepository\70-483-DEMO\10-TaskAddingContinuation\bin\Debug\10-TaskAddingContinuation.exe
+C:\gitRepository\70-483-DEMO\10-TaskAddingContinuation\bin\Debug\10-TaskAddingContinuation.pdb
+C:\gitRepository\70-483-DEMO\10-TaskAddingContinuation\obj\Debug\1.9-AddingAContinuation.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\10-TaskAddingContinuation\obj\Debug\10-TaskAddingContinuation.exe
+C:\gitRepository\70-483-DEMO\10-TaskAddingContinuation\obj\Debug\10-TaskAddingContinuation.pdb

@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\8-UsingTasks\bin\Debug\8-UsingTasks.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\8-UsingTasks\bin\Debug\8-UsingTasks.exe
+C:\Users\Diego\source\repos\70-483-DEMO\8-UsingTasks\bin\Debug\8-UsingTasks.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\8-UsingTasks\obj\Debug\8-UsingTasks.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\8-UsingTasks\obj\Debug\8-UsingTasks.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\8-UsingTasks\obj\Debug\8-UsingTasks.exe
+C:\Users\Diego\source\repos\70-483-DEMO\8-UsingTasks\obj\Debug\8-UsingTasks.pdb

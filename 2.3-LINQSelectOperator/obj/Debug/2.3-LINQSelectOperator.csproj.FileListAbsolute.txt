@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\2.3-LINQSelectOperator\bin\Debug\2.3-LINQSelectOperator.exe.config
+C:\gitRepository\70-483-DEMO\2.3-LINQSelectOperator\bin\Debug\2.3-LINQSelectOperator.exe
+C:\gitRepository\70-483-DEMO\2.3-LINQSelectOperator\bin\Debug\2.3-LINQSelectOperator.pdb
+C:\gitRepository\70-483-DEMO\2.3-LINQSelectOperator\obj\Debug\2.3-LINQSelectOperator.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.3-LINQSelectOperator\obj\Debug\2.3-LINQSelectOperator.exe
+C:\gitRepository\70-483-DEMO\2.3-LINQSelectOperator\obj\Debug\2.3-LINQSelectOperator.pdb

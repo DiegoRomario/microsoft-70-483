@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTheInterlockedClass\bin\Debug\1.6-UsingTheInterlockedClass.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTheInterlockedClass\bin\Debug\1.6-UsingTheInterlockedClass.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTheInterlockedClass\bin\Debug\1.6-UsingTheInterlockedClass.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTheInterlockedClass\obj\Debug\1.6-UsingTheInterlockedClass.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTheInterlockedClass\obj\Debug\1.6-UsingTheInterlockedClass.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.6-UsingTheInterlockedClass\obj\Debug\1.6-UsingTheInterlockedClass.pdb

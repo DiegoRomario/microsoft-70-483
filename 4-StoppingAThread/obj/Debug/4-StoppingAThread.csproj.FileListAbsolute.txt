@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\4-StoppingAThread\bin\Debug\4-StoppingAThread.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\4-StoppingAThread\bin\Debug\4-StoppingAThread.exe
+C:\Users\Diego\source\repos\70-483-DEMO\4-StoppingAThread\bin\Debug\4-StoppingAThread.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\4-StoppingAThread\obj\Debug\4-StoppingAThread.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\4-StoppingAThread\obj\Debug\4-StoppingAThread.exe
+C:\Users\Diego\source\repos\70-483-DEMO\4-StoppingAThread\obj\Debug\4-StoppingAThread.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\4-StoppingAThread\obj\Debug\4-StoppingAThread.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.1-AddingAFinalizer\bin\Debug\1.1-AddingAFinalizer.exe.config
+C:\gitRepository\70-483-DEMO\1.1-AddingAFinalizer\bin\Debug\1.1-AddingAFinalizer.exe
+C:\gitRepository\70-483-DEMO\1.1-AddingAFinalizer\bin\Debug\1.1-AddingAFinalizer.pdb
+C:\gitRepository\70-483-DEMO\1.1-AddingAFinalizer\obj\Debug\1.1-AddingAFinalizer.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.1-AddingAFinalizer\obj\Debug\1.1-AddingAFinalizer.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.1-AddingAFinalizer\obj\Debug\1.1-AddingAFinalizer.exe
+C:\gitRepository\70-483-DEMO\1.1-AddingAFinalizer\obj\Debug\1.1-AddingAFinalizer.pdb

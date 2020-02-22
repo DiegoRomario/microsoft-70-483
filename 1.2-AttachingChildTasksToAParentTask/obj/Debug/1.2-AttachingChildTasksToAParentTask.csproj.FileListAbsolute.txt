@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-AttachingChildTasksToAParentTask\bin\Debug\1.2-AttachingChildTasksToAParentTask.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-AttachingChildTasksToAParentTask\bin\Debug\1.2-AttachingChildTasksToAParentTask.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-AttachingChildTasksToAParentTask\bin\Debug\1.2-AttachingChildTasksToAParentTask.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-AttachingChildTasksToAParentTask\obj\Debug\1.2-AttachingChildTasksToAParentTask.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-AttachingChildTasksToAParentTask\obj\Debug\1.2-AttachingChildTasksToAParentTask.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.2-AttachingChildTasksToAParentTask\obj\Debug\1.2-AttachingChildTasksToAParentTask.pdb

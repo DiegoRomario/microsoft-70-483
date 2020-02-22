@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.6-UsingStartsWithAndEndsWith\bin\Debug\1.6-UsingStartsWithAndEndsWith.exe.config
+C:\gitRepository\70-483-DEMO\1.6-UsingStartsWithAndEndsWith\bin\Debug\1.6-UsingStartsWithAndEndsWith.exe
+C:\gitRepository\70-483-DEMO\1.6-UsingStartsWithAndEndsWith\bin\Debug\1.6-UsingStartsWithAndEndsWith.pdb
+C:\gitRepository\70-483-DEMO\1.6-UsingStartsWithAndEndsWith\obj\Debug\1.6-UsingStartsWithAndEndsWith.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.6-UsingStartsWithAndEndsWith\obj\Debug\1.6-UsingStartsWithAndEndsWith.exe
+C:\gitRepository\70-483-DEMO\1.6-UsingStartsWithAndEndsWith\obj\Debug\1.6-UsingStartsWithAndEndsWith.pdb

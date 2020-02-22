@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree\bin\Debug\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree.exe.config
+C:\gitRepository\70-483-DEMO\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree\bin\Debug\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree.exe
+C:\gitRepository\70-483-DEMO\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree\bin\Debug\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree.pdb
+C:\gitRepository\70-483-DEMO\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree\obj\Debug\2.4-CreatingDivisionExpressionWithAnExpressionTree.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree\obj\Debug\2.4-CreatingDivisionExpressionWithAnExpressionTree.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree\obj\Debug\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree.exe
+C:\gitRepository\70-483-DEMO\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree\obj\Debug\2.4-2.3-CreatingDivisionExpressionWithAnExpressionTree.pdb

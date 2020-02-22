@@ -1,0 +1,11 @@
+C:\gitRepository\70-483-DEMO\3.0-UsingSkipAndTakeToImplementPaging\bin\Debug\3.0-UsingSkipAndTakeToImplementPaging.exe.config
+C:\gitRepository\70-483-DEMO\3.0-UsingSkipAndTakeToImplementPaging\bin\Debug\3.0-UsingSkipAndTakeToImplementPaging.exe
+C:\gitRepository\70-483-DEMO\3.0-UsingSkipAndTakeToImplementPaging\bin\Debug\3.0-UsingSkipAndTakeToImplementPaging.pdb
+C:\gitRepository\70-483-DEMO\3.0-UsingSkipAndTakeToImplementPaging\bin\Debug\2.7-ASampleOrderClassForLINQueries.exe
+C:\gitRepository\70-483-DEMO\3.0-UsingSkipAndTakeToImplementPaging\bin\Debug\2.7-ASampleOrderClassForLINQueries.pdb
+C:\gitRepository\70-483-DEMO\3.0-UsingSkipAndTakeToImplementPaging\bin\Debug\2.7-ASampleOrderClassForLINQueries.exe.config
+C:\gitRepository\70-483-DEMO\3.0-UsingSkipAndTakeToImplementPaging\obj\Debug\3.0-UsingSkipAndTakeToImplementPaging.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\3.0-UsingSkipAndTakeToImplementPaging\obj\Debug\3.0-UsingSkipAndTakeToImplementPaging.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\3.0-UsingSkipAndTakeToImplementPaging\obj\Debug\3.0-UsingSkipAndTakeToImplementPaging.csproj.CopyComplete
+C:\gitRepository\70-483-DEMO\3.0-UsingSkipAndTakeToImplementPaging\obj\Debug\3.0-UsingSkipAndTakeToImplementPaging.exe
+C:\gitRepository\70-483-DEMO\3.0-UsingSkipAndTakeToImplementPaging\obj\Debug\3.0-UsingSkipAndTakeToImplementPaging.pdb

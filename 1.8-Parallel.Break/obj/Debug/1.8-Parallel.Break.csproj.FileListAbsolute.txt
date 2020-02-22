@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-Parallel.Break\bin\Debug\1.8-Parallel.Break.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-Parallel.Break\bin\Debug\1.8-Parallel.Break.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-Parallel.Break\bin\Debug\1.8-Parallel.Break.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-Parallel.Break\obj\Debug\1.8-Parallel.Break.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-Parallel.Break\obj\Debug\1.8-Parallel.Break.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.8-Parallel.Break\obj\Debug\1.8-Parallel.Break.pdb

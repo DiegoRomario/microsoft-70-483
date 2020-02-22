@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\2.8-UsingBlockingCollection-T\bin\Debug\2.8-UsingBlockingCollection-T.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\2.8-UsingBlockingCollection-T\bin\Debug\2.8-UsingBlockingCollection-T.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.8-UsingBlockingCollection-T\bin\Debug\2.8-UsingBlockingCollection-T.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.8-UsingBlockingCollection-T\obj\Debug\2.8-UsingBlockingCollection-T.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.8-UsingBlockingCollection-T\obj\Debug\2.8-UsingBlockingCollection-T.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.8-UsingBlockingCollection-T\obj\Debug\2.8-UsingBlockingCollection-T.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.8-UsingBlockingCollection-T\obj\Debug\2.8-UsingBlockingCollection-T.csprojAssemblyReference.cache

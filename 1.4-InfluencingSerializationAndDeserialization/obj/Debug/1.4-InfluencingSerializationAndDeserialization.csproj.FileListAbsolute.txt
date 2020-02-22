@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.4-InfluencingSerializationAndDeserialization\bin\Debug\1.4-InfluencingSerializationAndDeserialization.exe.config
+C:\gitRepository\70-483-DEMO\1.4-InfluencingSerializationAndDeserialization\bin\Debug\1.4-InfluencingSerializationAndDeserialization.exe
+C:\gitRepository\70-483-DEMO\1.4-InfluencingSerializationAndDeserialization\bin\Debug\1.4-InfluencingSerializationAndDeserialization.pdb
+C:\gitRepository\70-483-DEMO\1.4-InfluencingSerializationAndDeserialization\obj\Debug\1.4-InfluencingSerializationAndDeserialization.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.4-InfluencingSerializationAndDeserialization\obj\Debug\1.4-InfluencingSerializationAndDeserialization.exe
+C:\gitRepository\70-483-DEMO\1.4-InfluencingSerializationAndDeserialization\obj\Debug\1.4-InfluencingSerializationAndDeserialization.pdb

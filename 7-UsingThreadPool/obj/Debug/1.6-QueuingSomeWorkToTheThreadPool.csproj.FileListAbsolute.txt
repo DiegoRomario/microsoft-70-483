@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\7-UsingThreadPool\bin\Debug\7-UsingThreadPool.exe.config
+C:\gitRepository\70-483-DEMO\7-UsingThreadPool\bin\Debug\7-UsingThreadPool.exe
+C:\gitRepository\70-483-DEMO\7-UsingThreadPool\bin\Debug\7-UsingThreadPool.pdb
+C:\gitRepository\70-483-DEMO\7-UsingThreadPool\obj\Debug\1.6-QueuingSomeWorkToTheThreadPool.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\7-UsingThreadPool\obj\Debug\1.6-QueuingSomeWorkToTheThreadPool.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\7-UsingThreadPool\obj\Debug\7-UsingThreadPool.exe
+C:\gitRepository\70-483-DEMO\7-UsingThreadPool\obj\Debug\7-UsingThreadPool.pdb

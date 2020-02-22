@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingTask.WaitAll\bin\Debug\1.4-UsingTask.WaitAll.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingTask.WaitAll\bin\Debug\1.4-UsingTask.WaitAll.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingTask.WaitAll\bin\Debug\1.4-UsingTask.WaitAll.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingTask.WaitAll\obj\Debug\1.4-UsingTask.WaitAll.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingTask.WaitAll\obj\Debug\1.4-UsingTask.WaitAll.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.4-UsingTask.WaitAll\obj\Debug\1.4-UsingTask.WaitAll.pdb

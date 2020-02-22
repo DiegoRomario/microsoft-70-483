@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.3-CreatingAJaggedArray\bin\Debug\1.3-CreatingAJaggedArray.exe.config
+C:\gitRepository\70-483-DEMO\1.3-CreatingAJaggedArray\bin\Debug\1.3-CreatingAJaggedArray.exe
+C:\gitRepository\70-483-DEMO\1.3-CreatingAJaggedArray\bin\Debug\1.3-CreatingAJaggedArray.pdb
+C:\gitRepository\70-483-DEMO\1.3-CreatingAJaggedArray\obj\Debug\1.3-CreatingAJaggedArray.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.3-CreatingAJaggedArray\obj\Debug\1.3-CreatingAJaggedArray.exe
+C:\gitRepository\70-483-DEMO\1.3-CreatingAJaggedArray\obj\Debug\1.3-CreatingAJaggedArray.pdb

@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.5-ImplementingISerializable\bin\Debug\1.5-ImplementingISerializable.exe.config
+C:\gitRepository\70-483-DEMO\1.5-ImplementingISerializable\bin\Debug\1.5-ImplementingISerializable.exe
+C:\gitRepository\70-483-DEMO\1.5-ImplementingISerializable\bin\Debug\1.5-ImplementingISerializable.pdb
+C:\gitRepository\70-483-DEMO\1.5-ImplementingISerializable\obj\Debug\1.5-ImplementingISerializable.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.5-ImplementingISerializable\obj\Debug\1.5-ImplementingISerializable.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.5-ImplementingISerializable\obj\Debug\1.5-ImplementingISerializable.exe
+C:\gitRepository\70-483-DEMO\1.5-ImplementingISerializable\obj\Debug\1.5-ImplementingISerializable.pdb

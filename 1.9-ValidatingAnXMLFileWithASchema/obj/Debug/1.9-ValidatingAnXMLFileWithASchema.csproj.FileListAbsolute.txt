@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.9-ValidatingAnXMLFileWithASchema\bin\Debug\1.9-ValidatingAnXMLFileWithASchema.exe.config
+C:\gitRepository\70-483-DEMO\1.9-ValidatingAnXMLFileWithASchema\bin\Debug\1.9-ValidatingAnXMLFileWithASchema.exe
+C:\gitRepository\70-483-DEMO\1.9-ValidatingAnXMLFileWithASchema\bin\Debug\1.9-ValidatingAnXMLFileWithASchema.pdb
+C:\gitRepository\70-483-DEMO\1.9-ValidatingAnXMLFileWithASchema\obj\Debug\1.9-ValidatingAnXMLFileWithASchema.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.9-ValidatingAnXMLFileWithASchema\obj\Debug\1.9-ValidatingAnXMLFileWithASchema.exe
+C:\gitRepository\70-483-DEMO\1.9-ValidatingAnXMLFileWithASchema\obj\Debug\1.9-ValidatingAnXMLFileWithASchema.pdb
+C:\gitRepository\70-483-DEMO\1.9-ValidatingAnXMLFileWithASchema\obj\Debug\1.9-ValidatingAnXMLFileWithASchema.csprojAssemblyReference.cache

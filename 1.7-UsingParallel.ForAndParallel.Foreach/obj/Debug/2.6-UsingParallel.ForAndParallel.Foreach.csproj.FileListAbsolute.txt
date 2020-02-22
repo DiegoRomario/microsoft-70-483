@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.7-UsingParallel.ForAndParallel.Foreach\bin\Debug\1.7-UsingParallel.ForAndParallel.Foreach.exe.config
+C:\gitRepository\70-483-DEMO\1.7-UsingParallel.ForAndParallel.Foreach\bin\Debug\1.7-UsingParallel.ForAndParallel.Foreach.exe
+C:\gitRepository\70-483-DEMO\1.7-UsingParallel.ForAndParallel.Foreach\bin\Debug\1.7-UsingParallel.ForAndParallel.Foreach.pdb
+C:\gitRepository\70-483-DEMO\1.7-UsingParallel.ForAndParallel.Foreach\obj\Debug\2.6-UsingParallel.ForAndParallel.Foreach.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.7-UsingParallel.ForAndParallel.Foreach\obj\Debug\1.7-UsingParallel.ForAndParallel.Foreach.exe
+C:\gitRepository\70-483-DEMO\1.7-UsingParallel.ForAndParallel.Foreach\obj\Debug\1.7-UsingParallel.ForAndParallel.Foreach.pdb

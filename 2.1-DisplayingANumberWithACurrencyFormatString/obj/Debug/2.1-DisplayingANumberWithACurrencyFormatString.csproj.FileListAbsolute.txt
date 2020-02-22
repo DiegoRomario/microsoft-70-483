@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\2.1-DisplayingANumberWithACurrencyFormatString\bin\Debug\2.1-DisplayingANumberWithACurrencyFormatString.exe.config
+C:\gitRepository\70-483-DEMO\2.1-DisplayingANumberWithACurrencyFormatString\bin\Debug\2.1-DisplayingANumberWithACurrencyFormatString.exe
+C:\gitRepository\70-483-DEMO\2.1-DisplayingANumberWithACurrencyFormatString\bin\Debug\2.1-DisplayingANumberWithACurrencyFormatString.pdb
+C:\gitRepository\70-483-DEMO\2.1-DisplayingANumberWithACurrencyFormatString\obj\Debug\2.1-DisplayingANumberWithACurrencyFormatString.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.1-DisplayingANumberWithACurrencyFormatString\obj\Debug\2.1-DisplayingANumberWithACurrencyFormatString.exe
+C:\gitRepository\70-483-DEMO\2.1-DisplayingANumberWithACurrencyFormatString\obj\Debug\2.1-DisplayingANumberWithACurrencyFormatString.pdb

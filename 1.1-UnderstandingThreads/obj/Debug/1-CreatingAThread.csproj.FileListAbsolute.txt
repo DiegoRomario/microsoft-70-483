@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UnderstandingThreads\bin\Debug\1.1-UnderstandingThreads.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UnderstandingThreads\bin\Debug\1.1-UnderstandingThreads.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UnderstandingThreads\bin\Debug\1.1-UnderstandingThreads.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UnderstandingThreads\obj\Debug\1-CreatingAThread.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UnderstandingThreads\obj\Debug\1-CreatingAThread.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UnderstandingThreads\obj\Debug\1.1-UnderstandingThreads.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.1-UnderstandingThreads\obj\Debug\1.1-UnderstandingThreads.pdb

@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.7-ValidateAZIPCodeWithARegularExpression\bin\Debug\1.7-ValidateAZIPCodeWithARegularExpression.exe.config
+C:\gitRepository\70-483-DEMO\1.7-ValidateAZIPCodeWithARegularExpression\bin\Debug\1.7-ValidateAZIPCodeWithARegularExpression.exe
+C:\gitRepository\70-483-DEMO\1.7-ValidateAZIPCodeWithARegularExpression\bin\Debug\1.7-ValidateAZIPCodeWithARegularExpression.pdb
+C:\gitRepository\70-483-DEMO\1.7-ValidateAZIPCodeWithARegularExpression\obj\Debug\1.7-ValidateAZIPCodeWithARegularExpression.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.7-ValidateAZIPCodeWithARegularExpression\obj\Debug\1.7-ValidateAZIPCodeWithARegularExpression.exe
+C:\gitRepository\70-483-DEMO\1.7-ValidateAZIPCodeWithARegularExpression\obj\Debug\1.7-ValidateAZIPCodeWithARegularExpression.pdb

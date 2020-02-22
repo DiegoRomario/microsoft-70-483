@@ -1,0 +1,6 @@
+D:\GitDR\70-483\1.2-CreatingANewDirectory\bin\Debug\1.2-CreatingANewDirectory.exe.config
+D:\GitDR\70-483\1.2-CreatingANewDirectory\bin\Debug\1.2-CreatingANewDirectory.exe
+D:\GitDR\70-483\1.2-CreatingANewDirectory\bin\Debug\1.2-CreatingANewDirectory.pdb
+D:\GitDR\70-483\1.2-CreatingANewDirectory\obj\Debug\1.2-CreatingANewDirectory.csproj.CoreCompileInputs.cache
+D:\GitDR\70-483\1.2-CreatingANewDirectory\obj\Debug\1.2-CreatingANewDirectory.exe
+D:\GitDR\70-483\1.2-CreatingANewDirectory\obj\Debug\1.2-CreatingANewDirectory.pdb

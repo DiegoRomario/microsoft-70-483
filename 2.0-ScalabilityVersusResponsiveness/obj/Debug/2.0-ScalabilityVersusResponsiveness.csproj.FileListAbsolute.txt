@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ScalabilityVersusResponsiveness\bin\Debug\2.0-ScalabilityVersusResponsiveness.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ScalabilityVersusResponsiveness\bin\Debug\2.0-ScalabilityVersusResponsiveness.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ScalabilityVersusResponsiveness\bin\Debug\2.0-ScalabilityVersusResponsiveness.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ScalabilityVersusResponsiveness\obj\Debug\2.0-ScalabilityVersusResponsiveness.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ScalabilityVersusResponsiveness\obj\Debug\2.0-ScalabilityVersusResponsiveness.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.0-ScalabilityVersusResponsiveness\obj\Debug\2.0-ScalabilityVersusResponsiveness.pdb

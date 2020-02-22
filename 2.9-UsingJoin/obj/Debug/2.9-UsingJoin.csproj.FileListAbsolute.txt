@@ -1,0 +1,11 @@
+C:\gitRepository\70-483-DEMO\2.9-UsingJoin\bin\Debug\2.9-UsingJoin.exe.config
+C:\gitRepository\70-483-DEMO\2.9-UsingJoin\bin\Debug\2.9-UsingJoin.exe
+C:\gitRepository\70-483-DEMO\2.9-UsingJoin\bin\Debug\2.9-UsingJoin.pdb
+C:\gitRepository\70-483-DEMO\2.9-UsingJoin\bin\Debug\2.7-ASampleOrderClassForLINQueries.exe
+C:\gitRepository\70-483-DEMO\2.9-UsingJoin\bin\Debug\2.7-ASampleOrderClassForLINQueries.pdb
+C:\gitRepository\70-483-DEMO\2.9-UsingJoin\bin\Debug\2.7-ASampleOrderClassForLINQueries.exe.config
+C:\gitRepository\70-483-DEMO\2.9-UsingJoin\obj\Debug\2.9-UsingJoin.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\2.9-UsingJoin\obj\Debug\2.9-UsingJoin.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\2.9-UsingJoin\obj\Debug\2.9-UsingJoin.csproj.CopyComplete
+C:\gitRepository\70-483-DEMO\2.9-UsingJoin\obj\Debug\2.9-UsingJoin.exe
+C:\gitRepository\70-483-DEMO\2.9-UsingJoin\obj\Debug\2.9-UsingJoin.pdb

@@ -1,0 +1,6 @@
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingEnvironment.FailFast\bin\Release\1.5-UsingEnvironment.FailFast.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingEnvironment.FailFast\bin\Release\1.5-UsingEnvironment.FailFast.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingEnvironment.FailFast\bin\Release\1.5-UsingEnvironment.FailFast.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingEnvironment.FailFast\obj\Release\1.5-UsingEnvironment.FailFast.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingEnvironment.FailFast\obj\Release\1.5-UsingEnvironment.FailFast.exe
+C:\Users\Diego\source\repos\70-483-DEMO\1.5-UsingEnvironment.FailFast\obj\Release\1.5-UsingEnvironment.FailFast.pdb

@@ -1,0 +1,7 @@
+C:\Users\Diego\source\repos\70-483-DEMO\2.7-CatchingAggregateException\bin\Debug\2.7-CatchingAggregateException.exe.config
+C:\Users\Diego\source\repos\70-483-DEMO\2.7-CatchingAggregateException\bin\Debug\2.7-CatchingAggregateException.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.7-CatchingAggregateException\bin\Debug\2.7-CatchingAggregateException.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.7-CatchingAggregateException\obj\Debug\2.7-CatchingAggregateException.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\70-483-DEMO\2.7-CatchingAggregateException\obj\Debug\2.7-CatchingAggregateException.exe
+C:\Users\Diego\source\repos\70-483-DEMO\2.7-CatchingAggregateException\obj\Debug\2.7-CatchingAggregateException.pdb
+C:\Users\Diego\source\repos\70-483-DEMO\2.7-CatchingAggregateException\obj\Debug\2.7-CatchingAggregateException.csprojAssemblyReference.cache

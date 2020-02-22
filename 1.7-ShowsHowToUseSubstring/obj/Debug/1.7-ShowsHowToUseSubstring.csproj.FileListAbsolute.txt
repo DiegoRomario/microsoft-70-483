@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.7-ShowsHowToUseSubstring\bin\Debug\1.7-ShowsHowToUseSubstring.exe.config
+C:\gitRepository\70-483-DEMO\1.7-ShowsHowToUseSubstring\bin\Debug\1.7-ShowsHowToUseSubstring.exe
+C:\gitRepository\70-483-DEMO\1.7-ShowsHowToUseSubstring\bin\Debug\1.7-ShowsHowToUseSubstring.pdb
+C:\gitRepository\70-483-DEMO\1.7-ShowsHowToUseSubstring\obj\Debug\1.7-ShowsHowToUseSubstring.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.7-ShowsHowToUseSubstring\obj\Debug\1.7-ShowsHowToUseSubstring.exe
+C:\gitRepository\70-483-DEMO\1.7-ShowsHowToUseSubstring\obj\Debug\1.7-ShowsHowToUseSubstring.pdb

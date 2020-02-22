@@ -1,0 +1,6 @@
+C:\gitRepository\70-483-DEMO\1.9-Moving file\bin\Debug\1.9-Moving file.exe.config
+C:\gitRepository\70-483-DEMO\1.9-Moving file\bin\Debug\1.9-Moving file.exe
+C:\gitRepository\70-483-DEMO\1.9-Moving file\bin\Debug\1.9-Moving file.pdb
+C:\gitRepository\70-483-DEMO\1.9-Moving file\obj\Debug\1.9-MovingAFile.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.9-Moving file\obj\Debug\1.9-Moving file.exe
+C:\gitRepository\70-483-DEMO\1.9-Moving file\obj\Debug\1.9-Moving file.pdb

@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1-1-SerializingAnObjectWithTheXmlSerializer\bin\Debug\1-1-SerializingAnObjectWithTheXmlSerializer.exe.config
+C:\gitRepository\70-483-DEMO\1-1-SerializingAnObjectWithTheXmlSerializer\bin\Debug\1-1-SerializingAnObjectWithTheXmlSerializer.exe
+C:\gitRepository\70-483-DEMO\1-1-SerializingAnObjectWithTheXmlSerializer\bin\Debug\1-1-SerializingAnObjectWithTheXmlSerializer.pdb
+C:\gitRepository\70-483-DEMO\1-1-SerializingAnObjectWithTheXmlSerializer\obj\Debug\1-1-SerializingAnObjectWithTheXmlSerializer.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1-1-SerializingAnObjectWithTheXmlSerializer\obj\Debug\1-1-SerializingAnObjectWithTheXmlSerializer.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1-1-SerializingAnObjectWithTheXmlSerializer\obj\Debug\1-1-SerializingAnObjectWithTheXmlSerializer.exe
+C:\gitRepository\70-483-DEMO\1-1-SerializingAnObjectWithTheXmlSerializer\obj\Debug\1-1-SerializingAnObjectWithTheXmlSerializer.pdb

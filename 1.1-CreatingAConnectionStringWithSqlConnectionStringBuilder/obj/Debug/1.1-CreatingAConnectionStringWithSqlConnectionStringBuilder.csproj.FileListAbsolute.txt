@@ -1,0 +1,7 @@
+C:\gitRepository\70-483-DEMO\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder\bin\Debug\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder.exe.config
+C:\gitRepository\70-483-DEMO\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder\bin\Debug\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder.exe
+C:\gitRepository\70-483-DEMO\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder\bin\Debug\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder.pdb
+C:\gitRepository\70-483-DEMO\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder\obj\Debug\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder.csprojAssemblyReference.cache
+C:\gitRepository\70-483-DEMO\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder\obj\Debug\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder.csproj.CoreCompileInputs.cache
+C:\gitRepository\70-483-DEMO\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder\obj\Debug\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder.exe
+C:\gitRepository\70-483-DEMO\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder\obj\Debug\1.1-CreatingAConnectionStringWithSqlConnectionStringBuilder.pdb

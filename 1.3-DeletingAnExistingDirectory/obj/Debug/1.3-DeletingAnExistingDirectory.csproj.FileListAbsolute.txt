@@ -1,0 +1,6 @@
+D:\GitDR\70-483\1.3-DeletingAnExistingDirectory\bin\Debug\1.3-DeletingAnExistingDirectory.exe.config
+D:\GitDR\70-483\1.3-DeletingAnExistingDirectory\bin\Debug\1.3-DeletingAnExistingDirectory.exe
+D:\GitDR\70-483\1.3-DeletingAnExistingDirectory\bin\Debug\1.3-DeletingAnExistingDirectory.pdb
+D:\GitDR\70-483\1.3-DeletingAnExistingDirectory\obj\Debug\1.3-DeletingAnExistingDirectory.csproj.CoreCompileInputs.cache
+D:\GitDR\70-483\1.3-DeletingAnExistingDirectory\obj\Debug\1.3-DeletingAnExistingDirectory.exe
+D:\GitDR\70-483\1.3-DeletingAnExistingDirectory\obj\Debug\1.3-DeletingAnExistingDirectory.pdb
